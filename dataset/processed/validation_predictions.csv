@@ -1,0 +1,719 @@
+image_filename,class_name,label,predicted_label,predicted_class,correct
+01c1da17-8d9f-4d69-8a1e-58d37453d3c3___RS_HL 9641.JPG,Tomato___healthy,0,1,Early blight,False
+0326b4b6-0f25-47af-bfd9-d8fec314a4f5___RS_HL 0621.JPG,Tomato___healthy,0,0,Healthy,True
+04141939-3a8c-47b2-a582-e8371ccc120f___RS_HL 0275.JPG,Tomato___healthy,0,0,Healthy,True
+04dec2d5-560b-4f34-a4a1-36b034031e4d___RS_HL 0516.JPG,Tomato___healthy,0,0,Healthy,True
+06704d9f-3bbc-40cd-a5eb-258ed55e172b___GH_HL Leaf 491.1.JPG,Tomato___healthy,0,0,Healthy,True
+083426c2-0042-4788-91ea-b7d93395c24a___RS_HL 9929.JPG,Tomato___healthy,0,0,Healthy,True
+0864ab65-d40d-4902-8213-09df86cf049e___GH_HL Leaf 400.JPG,Tomato___healthy,0,0,Healthy,True
+0a9986e6-b629-4ff5-8aab-7488ea9b935b___RS_HL 9704.JPG,Tomato___healthy,0,0,Healthy,True
+0c3eaf2d-8203-441d-9248-1c64e00b5b8b___RS_HL 0018.JPG,Tomato___healthy,0,0,Healthy,True
+0c4b06d5-4053-44fc-99b6-504934fdd3a9___GH_HL Leaf 199.1.JPG,Tomato___healthy,0,0,Healthy,True
+0d259481-e08d-459d-aa92-fe05e1524742___GH_HL Leaf 253.1.JPG,Tomato___healthy,0,0,Healthy,True
+0d515778-61ef-4f0b-ab54-75607c80220f___RS_HL 9745.JPG,Tomato___healthy,0,0,Healthy,True
+0e3feb72-86e5-41c2-a7ca-3295800e5777___RS_HL 0158.JPG,Tomato___healthy,0,0,Healthy,True
+0f0fc0ee-b19b-4f90-ab41-8f693131f57d___RS_HL 9890.JPG,Tomato___healthy,0,0,Healthy,True
+0f20443a-193e-46b1-aea9-7ea614eb98ec___RS_HL 9850.JPG,Tomato___healthy,0,0,Healthy,True
+12c28bfa-a576-4787-8d4e-a500ac446766___RS_HL 0526.JPG,Tomato___healthy,0,0,Healthy,True
+130c7763-2ace-42bc-b2f0-ef78be095e8c___RS_HL 0171.JPG,Tomato___healthy,0,0,Healthy,True
+1317fd49-1819-4065-b3a4-d74f9763c7c4___RS_HL 0252.JPG,Tomato___healthy,0,0,Healthy,True
+1421f343-ba3a-424c-ac71-b5eb9ac26c10___GH_HL Leaf 201.JPG,Tomato___healthy,0,0,Healthy,True
+166b90f5-3bba-4aea-9bc4-212efb57a504___RS_HL 0377.JPG,Tomato___healthy,0,0,Healthy,True
+16927ddc-fc87-4ff2-b450-1edc2b4c6191___RS_HL 0051.JPG,Tomato___healthy,0,0,Healthy,True
+190a6af7-d7b1-4265-b05b-c126a7962c93___GH_HL Leaf 408.JPG,Tomato___healthy,0,0,Healthy,True
+199f4f32-6e91-4031-b861-bac1abe3452a___RS_HL 9763.JPG,Tomato___healthy,0,0,Healthy,True
+19e31197-5f6d-4925-975c-884bd4a94bfe___RS_HL 0291.JPG,Tomato___healthy,0,0,Healthy,True
+1a0c4408-634e-4bd5-948d-e73ca5572976___RS_HL 0146.JPG,Tomato___healthy,0,0,Healthy,True
+1b150c8d-ab5d-43b5-a61d-c3fb3a8ffd54___GH_HL Leaf 321.JPG,Tomato___healthy,0,0,Healthy,True
+1b966d62-d5c3-4a67-ba36-b67d873ccfdf___GH_HL Leaf 440.JPG,Tomato___healthy,0,0,Healthy,True
+1c092a12-ed60-42c8-86b4-0427db78a5d3___RS_HL 0076.JPG,Tomato___healthy,0,0,Healthy,True
+1d1221b5-1a59-43bb-a616-8f7a404785b6___RS_HL 0451.JPG,Tomato___healthy,0,0,Healthy,True
+1e4aef32-09c5-4af8-8948-dc86bd8ef2e7___GH_HL Leaf 215.1.JPG,Tomato___healthy,0,0,Healthy,True
+202825fe-3d0b-4c86-aea3-15604e2efed4___RS_HL 9694.JPG,Tomato___healthy,0,0,Healthy,True
+21f1c16d-2d7f-44e6-a2e4-7d830dfbfda3___RS_HL 9996.JPG,Tomato___healthy,0,0,Healthy,True
+225003c5-d8a1-48ce-b315-42df4b99c51a___RS_HL 0464.JPG,Tomato___healthy,0,0,Healthy,True
+236971d6-725b-4685-9336-550dd522d62a___RS_HL 0640.JPG,Tomato___healthy,0,0,Healthy,True
+23ffcd05-2b2a-48d2-a694-5c292e910b66___RS_HL 9842.JPG,Tomato___healthy,0,0,Healthy,True
+247e79d6-1874-4ce4-a777-a03a4f94edbf___GH_HL Leaf 211.1.JPG,Tomato___healthy,0,0,Healthy,True
+25080b1c-6c0f-4b11-bb31-b5cfb2429395___GH_HL Leaf 238.JPG,Tomato___healthy,0,0,Healthy,True
+273f3e74-dbdc-40bc-8507-3bdd3ce24134___RS_HL 0149.JPG,Tomato___healthy,0,0,Healthy,True
+293dddf9-f5e5-42de-ab68-f1cad0f69a43___GH_HL Leaf 232.JPG,Tomato___healthy,0,0,Healthy,True
+2956235c-12ff-403f-be91-60868a42ad3e___RS_HL 9849.JPG,Tomato___healthy,0,0,Healthy,True
+2996b910-fc94-43ef-99b3-efc0ae494872___RS_HL 0410.JPG,Tomato___healthy,0,0,Healthy,True
+29d9f827-5e61-4b9b-acba-db0e7ce2016d___GH_HL Leaf 480.JPG,Tomato___healthy,0,0,Healthy,True
+2a99d5af-218f-4332-a8ce-505301abdbfe___RS_HL 9693.JPG,Tomato___healthy,0,0,Healthy,True
+2b03b88c-5299-4c2c-8e7f-c40fbd98e145___RS_HL 0104.JPG,Tomato___healthy,0,0,Healthy,True
+2b4ab56e-4afa-4b0f-910a-3270e90c707c___RS_HL 0035.JPG,Tomato___healthy,0,0,Healthy,True
+2e4b9ef4-4ee8-4a50-aac0-de7c001f36d4___GH_HL Leaf 288.1.JPG,Tomato___healthy,0,0,Healthy,True
+2ea87b73-a52b-4a4c-938f-4ce06335d171___GH_HL Leaf 177.1.JPG,Tomato___healthy,0,0,Healthy,True
+2f9e1c60-06fc-41e9-af7d-a91c4a5e9f3d___GH_HL Leaf 504.1.JPG,Tomato___healthy,0,0,Healthy,True
+303db099-b4e0-4c12-801d-cf501857075a___RS_HL 9942.JPG,Tomato___healthy,0,0,Healthy,True
+347987eb-9aee-49c7-a8c9-346d18ee7227___GH_HL Leaf 229.1.JPG,Tomato___healthy,0,0,Healthy,True
+3574c8fc-19bd-4163-adc8-c36276fff0fb___GH_HL Leaf 362.JPG,Tomato___healthy,0,0,Healthy,True
+36d4756b-afff-40cb-ac7f-598eda5269b9___RS_HL 9711.JPG,Tomato___healthy,0,0,Healthy,True
+37203047-d8ba-43f7-b31e-d496c41c569c___GH_HL Leaf 389.JPG,Tomato___healthy,0,2,Late blight,False
+3a211a87-cac9-4393-84ca-51e240e1b043___RS_HL 0210.JPG,Tomato___healthy,0,0,Healthy,True
+3b0677fb-ff25-4871-aa89-37f756e917af___GH_HL Leaf 253.JPG,Tomato___healthy,0,0,Healthy,True
+3bbaca2e-d2fd-4fcb-bbd7-e1ad4f7a84ae___RS_HL 0630.JPG,Tomato___healthy,0,0,Healthy,True
+3c435a41-903c-4517-b79e-c01724be03a1___RS_HL 0422.JPG,Tomato___healthy,0,0,Healthy,True
+3d1ab8b2-d61c-4ab1-9222-52bf63eb0315___RS_HL 0548.JPG,Tomato___healthy,0,0,Healthy,True
+3df51cfe-b583-40ae-a2d5-d4928a8a763f___RS_HL 9765.JPG,Tomato___healthy,0,0,Healthy,True
+3e6c73ad-cfcb-4614-b927-150c2c642c9e___RS_HL 0074.JPG,Tomato___healthy,0,0,Healthy,True
+419bb16e-1d52-4788-8cb5-a8fb30d554fe___RS_HL 9683.JPG,Tomato___healthy,0,0,Healthy,True
+45167988-3f78-4309-8ce2-633d7521847f___GH_HL Leaf 432.1.JPG,Tomato___healthy,0,0,Healthy,True
+45a1a63e-d00e-434d-b1b8-5b14dcde5b1e___GH_HL Leaf 250.JPG,Tomato___healthy,0,0,Healthy,True
+45a1e50e-e504-40a6-8378-39c28914ca43___GH_HL Leaf 448.1.JPG,Tomato___healthy,0,0,Healthy,True
+4629608b-5ac4-49d9-a8ff-ca1548fd4710___GH_HL Leaf 375.JPG,Tomato___healthy,0,0,Healthy,True
+466832f0-bff9-4766-a597-dc89880a7b4a___RS_HL 0111.JPG,Tomato___healthy,0,0,Healthy,True
+46ff56ce-bf5d-48b9-89d8-d096a288f62b___RS_HL 9630.JPG,Tomato___healthy,0,0,Healthy,True
+47362660-a262-4ffb-ae99-68b699b3ecb7___RS_HL 0006.JPG,Tomato___healthy,0,0,Healthy,True
+47a87555-1411-43a3-85d2-5fb241ec089d___GH_HL Leaf 177.2.JPG,Tomato___healthy,0,0,Healthy,True
+483659eb-d6da-4eb6-9106-cfe4240becbe___RS_HL 9895.JPG,Tomato___healthy,0,0,Healthy,True
+48af8eac-8662-400b-a0bb-024a28ed3cc9___RS_HL 0266.JPG,Tomato___healthy,0,0,Healthy,True
+4946ed4e-9003-485c-830f-1ef42bf78185___RS_HL 0191.JPG,Tomato___healthy,0,0,Healthy,True
+4959798b-5c9b-4f8e-b0a0-3778259614b1___CG1.JPG,Tomato___healthy,0,2,Late blight,False
+49a59716-84d4-44bd-b1c7-4571def5be12___GH_HL Leaf 421.JPG,Tomato___healthy,0,0,Healthy,True
+4a1e2b71-992a-4a64-a599-b49b8fa75378___RS_HL 0627.JPG,Tomato___healthy,0,0,Healthy,True
+4af641e9-7960-4c73-a32c-6373d1f341d0___GH_HL Leaf 489.JPG,Tomato___healthy,0,0,Healthy,True
+4b7deb4f-5bce-4915-ba64-7e75c66624c2___RS_HL 0153.JPG,Tomato___healthy,0,0,Healthy,True
+4c70f748-028a-49d2-92b6-3bf77d33bb9e___RS_HL 9786.JPG,Tomato___healthy,0,0,Healthy,True
+4d374048-0e08-4a09-ae57-e83f8e64082b___RS_HL 0564.JPG,Tomato___healthy,0,0,Healthy,True
+502bbd0a-8c84-4723-8e16-446655d5563d___RS_HL 0423.JPG,Tomato___healthy,0,0,Healthy,True
+5153c319-4ab2-4ad0-af02-37219b0766d3___GH_HL Leaf 500.3.JPG,Tomato___healthy,0,0,Healthy,True
+53471454-9f9a-4182-91a3-c2c6c1268c56___RS_HL 0209.JPG,Tomato___healthy,0,0,Healthy,True
+534e4d2c-e2cc-4448-9181-95b9af3ff56a___RS_HL 0198.JPG,Tomato___healthy,0,0,Healthy,True
+5422b428-b58a-4276-a79c-79d1c3ca7aa2___RS_HL 0123.JPG,Tomato___healthy,0,0,Healthy,True
+54a6ab64-9e7f-4126-8497-857c7c339a80___RS_HL 0461.JPG,Tomato___healthy,0,0,Healthy,True
+583238e5-392b-40ef-9bbe-be54bda61477___RS_HL 9869.JPG,Tomato___healthy,0,0,Healthy,True
+593c58eb-71d4-4626-89d4-de6f59964aa8___RS_HL 0106.JPG,Tomato___healthy,0,0,Healthy,True
+598606b2-3e32-4d1d-b86e-042a14cd24d0___GH_HL Leaf 504.2.JPG,Tomato___healthy,0,0,Healthy,True
+59a8b3a3-7e21-4322-befc-0d3da471bd67___GH_HL Leaf 403.1.JPG,Tomato___healthy,0,0,Healthy,True
+5ac6005e-d9b6-4847-bd28-e43038e02450___RS_HL 0489.JPG,Tomato___healthy,0,0,Healthy,True
+5b626f17-8c30-4b6e-bd66-8da2b7476326___RS_HL 9851.JPG,Tomato___healthy,0,0,Healthy,True
+5df79085-2c00-41d6-ac0f-33a831a16d89___RS_HL 9634.JPG,Tomato___healthy,0,0,Healthy,True
+5f67b4d4-4503-4149-950b-6cd08a20aaf8___RS_HL 9696.JPG,Tomato___healthy,0,0,Healthy,True
+5f8189f2-51cf-49b4-8a34-4955f26cf222___RS_HL 0352.JPG,Tomato___healthy,0,0,Healthy,True
+6193b998-c9ab-46fc-9ca9-249efceb9220___RS_HL 0642.JPG,Tomato___healthy,0,0,Healthy,True
+61db52ae-d868-4ba0-bac0-b2c9dc539cd8___RS_HL 0140.JPG,Tomato___healthy,0,0,Healthy,True
+621419a1-09f2-4a22-a569-6d8103895d1c___RS_HL 0023.JPG,Tomato___healthy,0,0,Healthy,True
+630ae481-49e7-470c-ad05-177132a6648a___RS_HL 0178.JPG,Tomato___healthy,0,0,Healthy,True
+6323ad6c-28ea-4050-bc40-310d58715755___RS_HL 0294.JPG,Tomato___healthy,0,0,Healthy,True
+67dfa474-5a26-4bfb-a7ea-33f6f6f7a497___RS_HL 9794.JPG,Tomato___healthy,0,0,Healthy,True
+6883c31a-78b4-406a-9605-b6b31e0932cc___RS_HL 0037.JPG,Tomato___healthy,0,0,Healthy,True
+6949b108-03f0-4cee-b91a-bb5b23e93249___GH_HL Leaf 331.3.JPG,Tomato___healthy,0,0,Healthy,True
+69a348e0-b426-42bd-ba09-a8bb067430e5___RS_HL 0016.JPG,Tomato___healthy,0,0,Healthy,True
+6a74d0a9-4a5e-4dc2-9e14-aeade8b0c3b2___GH_HL Leaf 400.1.JPG,Tomato___healthy,0,0,Healthy,True
+6aed746b-e45b-40d6-addb-71bdd0456618___RS_HL 0638.JPG,Tomato___healthy,0,0,Healthy,True
+6bcd0525-7b7a-4503-aff0-73cc04db5105___RS_HL 9916.JPG,Tomato___healthy,0,0,Healthy,True
+6be1ec13-6964-4706-b94a-069d4a8592cf___GH_HL Leaf 175.1.JPG,Tomato___healthy,0,0,Healthy,True
+6c46af84-675e-4e35-8309-169c20ae8b62___RS_HL 0383.JPG,Tomato___healthy,0,0,Healthy,True
+6d0a4eb6-2a48-4fd6-9bb5-df05eeeb05a8___GH_HL Leaf 316.2.JPG,Tomato___healthy,0,0,Healthy,True
+6d7934cb-69fc-48fe-b493-a64b349a9094___RS_HL 9930.JPG,Tomato___healthy,0,0,Healthy,True
+6e1abdb8-4020-48c9-9488-2d320e8d5a4d___RS_HL 0168.JPG,Tomato___healthy,0,0,Healthy,True
+6ee48dff-5a8a-4751-8850-200575ee49b1___RS_HL 0479.JPG,Tomato___healthy,0,0,Healthy,True
+6fc5b781-6757-459f-af96-09a67dbcb2bc___RS_HL 0607.JPG,Tomato___healthy,0,0,Healthy,True
+7079935b-c669-47db-a6ae-5a12d9ccf9d7___GH_HL Leaf 331.1.JPG,Tomato___healthy,0,0,Healthy,True
+70e2244d-152b-4dc7-b002-5991e1a195db___RS_HL 9948.JPG,Tomato___healthy,0,0,Healthy,True
+70f76975-801c-48f4-b757-c8b2d834a0ec___RS_HL 9738.JPG,Tomato___healthy,0,0,Healthy,True
+711640b7-c013-4982-a5d9-c2d1d570048a___GH_HL Leaf 378.1.JPG,Tomato___healthy,0,0,Healthy,True
+71867583-027b-4304-8854-7b88efaf280b___RS_HL 9920.JPG,Tomato___healthy,0,0,Healthy,True
+7188d286-5201-40b6-925a-52af6e6c7c03___GH_HL Leaf 479.1.JPG,Tomato___healthy,0,0,Healthy,True
+719352b5-1b4c-41e5-a517-3dfde18c13ef___RS_HL 0300.JPG,Tomato___healthy,0,0,Healthy,True
+74579097-2dd7-4d15-8f73-f09e7d919b51___RS_HL 9773.JPG,Tomato___healthy,0,0,Healthy,True
+77919a16-c47c-46ca-857b-8cfb67139857___RS_HL 9695.JPG,Tomato___healthy,0,0,Healthy,True
+77c978a3-7285-4d36-a858-1b77729020b7___GH_HL Leaf 462.1.JPG,Tomato___healthy,0,0,Healthy,True
+78c0dc05-0bac-43fd-81b5-b10b61f666cd___GH_HL Leaf 481.5.JPG,Tomato___healthy,0,0,Healthy,True
+791d2730-66b2-418b-abe0-548208783e44___RS_HL 0589.JPG,Tomato___healthy,0,0,Healthy,True
+7a5fe2a0-ac85-4a37-b0f6-8cfc8fb21c9c___RS_HL 9865.JPG,Tomato___healthy,0,0,Healthy,True
+7a73a7f9-27e3-4898-be48-97ddcaa094a4___GH_HL Leaf 381.JPG,Tomato___healthy,0,0,Healthy,True
+7af927ee-8940-49bf-bcb3-78ec3fcc40f3___RS_HL 9626.JPG,Tomato___healthy,0,0,Healthy,True
+7b651761-da31-437a-be17-6e49912f622a___RS_HL 9703.JPG,Tomato___healthy,0,0,Healthy,True
+7de93009-6180-4027-8779-76947cda3e2f___2700323949_95aa2eaa01_o.jpg,Tomato___healthy,0,2,Late blight,False
+7e37d8c3-2f62-4a95-b430-34746cb25776___RS_HL 0188.JPG,Tomato___healthy,0,0,Healthy,True
+81314c2b-1def-41c8-a6b4-1cd37d1e482a___RS_HL 0175.JPG,Tomato___healthy,0,0,Healthy,True
+81453f31-6152-44e0-bfaf-fcd1336fc064___GH_HL Leaf 479.JPG,Tomato___healthy,0,0,Healthy,True
+824d057f-080b-4b9e-ae96-e91d5bdf3b98___RS_HL 0380.JPG,Tomato___healthy,0,0,Healthy,True
+839daf12-8d8b-478e-b214-2d5dd0fa509a___GH_HL Leaf 445.1.JPG,Tomato___healthy,0,0,Healthy,True
+8425f91b-b758-4e82-a7cc-6ecc862c1a00___RS_HL 0255.JPG,Tomato___healthy,0,0,Healthy,True
+84991306-21f6-41fb-a723-0c7ba1dac9d3___GH_HL Leaf 199.JPG,Tomato___healthy,0,0,Healthy,True
+8558f71b-626f-40f3-863d-69493941f829___RS_HL 0044.JPG,Tomato___healthy,0,0,Healthy,True
+86a7487a-e9a1-413c-b8ad-6dfacf9c0b2a___GH_HL Leaf 413.1.JPG,Tomato___healthy,0,0,Healthy,True
+870b4923-2db1-4e01-827b-fbea6ed404cb___RS_HL 0164.JPG,Tomato___healthy,0,0,Healthy,True
+87d30769-5aea-4648-8105-788267115242___GH_HL Leaf 414.1.JPG,Tomato___healthy,0,0,Healthy,True
+89787310-40fb-4d46-9b4b-5f8426e26ccf___GH_HL Leaf 442.1.JPG,Tomato___healthy,0,0,Healthy,True
+8a4dc6f9-2f54-4bdd-957f-d9fb709e1b26___GH_HL Leaf 302.1.JPG,Tomato___healthy,0,0,Healthy,True
+8c43c178-69de-4e23-a075-1f0bdbf586db___RS_HL 0637.JPG,Tomato___healthy,0,0,Healthy,True
+8ccf22b2-53fe-4886-b88d-d65aa0cf7252___GH_HL Leaf 196.1.JPG,Tomato___healthy,0,0,Healthy,True
+90a8b687-3191-4ef5-bb9c-e11aeb2d6c8f___RS_HL 0057.JPG,Tomato___healthy,0,0,Healthy,True
+91b86c29-60fb-4383-8bc3-8e06cb5519f2___RS_HL 0283.JPG,Tomato___healthy,0,0,Healthy,True
+933b7a1c-5015-48df-8c2d-b7fdf918a4db___GH_HL Leaf 490.1.JPG,Tomato___healthy,0,0,Healthy,True
+93807606-0aed-435b-adb2-cf303a7d586e___RS_HL 0135.JPG,Tomato___healthy,0,0,Healthy,True
+939be2cc-6c00-4205-85cd-5276c12969e0___RS_HL 9883.JPG,Tomato___healthy,0,0,Healthy,True
+93c9da62-19ca-4e90-b355-0dc71ff5cc4b___RS_HL 9752.JPG,Tomato___healthy,0,2,Late blight,False
+95abb641-4435-4531-88f6-a4a597c5ff33___RS_HL 9779.JPG,Tomato___healthy,0,0,Healthy,True
+9721c76f-52cc-4a63-a465-4cc32974806c___GH_HL Leaf 431.1.JPG,Tomato___healthy,0,0,Healthy,True
+973bc347-b335-4333-8536-82db4a41fa6c___RS_HL 0142.JPG,Tomato___healthy,0,0,Healthy,True
+977bcf65-3e68-4be3-bb8a-4a860a6fef9d___RS_HL 9986.JPG,Tomato___healthy,0,2,Late blight,False
+982903ac-ec41-4bc3-8faf-c38a45d9b193___RS_HL 9960.JPG,Tomato___healthy,0,0,Healthy,True
+991e779d-ffcb-4f55-98f6-20575d202757___RS_HL 0166.JPG,Tomato___healthy,0,0,Healthy,True
+99330465-d609-4f9b-b1cf-da0410f6122c___RS_HL 0388.JPG,Tomato___healthy,0,0,Healthy,True
+99fcb52b-0e4f-47a6-b350-1d49d26bc649___GH_HL Leaf 298.JPG,Tomato___healthy,0,0,Healthy,True
+9a3e2912-5d94-4eb0-9bb2-4035eaf4c884___RS_HL 0102.JPG,Tomato___healthy,0,0,Healthy,True
+9a97f632-a6a4-4a7e-9a82-90167fdf8fff___GH_HL Leaf 181.JPG,Tomato___healthy,0,0,Healthy,True
+9aeac2ec-83f4-4348-bc26-8f55b8eb6c52___RS_HL 9817.JPG,Tomato___healthy,0,0,Healthy,True
+9b5c0a85-5a16-4589-ae76-ef4247e78663___RS_HL 0281.JPG,Tomato___healthy,0,0,Healthy,True
+9b668abb-fc96-412e-948f-442af45ec580___RS_HL 9972.JPG,Tomato___healthy,0,0,Healthy,True
+9d06e189-6e39-4fb9-853b-e2ce180469a5___RS_HL 0407.JPG,Tomato___healthy,0,0,Healthy,True
+9dc940f8-cd79-4341-95ef-f845583d9dff___RS_HL 9751.JPG,Tomato___healthy,0,0,Healthy,True
+9e43d49b-abbe-4b9b-8566-42586a58a705___RS_HL 0462.JPG,Tomato___healthy,0,0,Healthy,True
+9ee73ce8-ea9e-4a76-8b41-39500bdf3514___RS_HL 0110.JPG,Tomato___healthy,0,0,Healthy,True
+9f1704fc-28ae-4e27-a6f3-885811ea80e2___GH_HL Leaf 260.JPG,Tomato___healthy,0,0,Healthy,True
+a1238cae-087e-42de-824b-35a967fe43a6___RS_HL 0624.JPG,Tomato___healthy,0,0,Healthy,True
+a2317e6a-8548-432c-b69f-0f6daada41fa___GH_HL Leaf 469.1.JPG,Tomato___healthy,0,0,Healthy,True
+a261cf1c-0bf5-4dec-b796-5dfe2ab0ee1b___GH_HL Leaf 322.JPG,Tomato___healthy,0,0,Healthy,True
+a2bbffab-17fd-4608-8994-28f7a62e3a4f___RS_HL 0251.JPG,Tomato___healthy,0,0,Healthy,True
+a5e54e01-2cd5-482a-bfba-8728ca32473c___GH_HL Leaf 426.JPG,Tomato___healthy,0,0,Healthy,True
+a7c1d137-6609-4659-94ce-81c62f64665e___RS_HL 0195.JPG,Tomato___healthy,0,0,Healthy,True
+a8070204-763a-47f2-9b83-445c17975cdf___RS_HL 0024.JPG,Tomato___healthy,0,0,Healthy,True
+ab1658d8-ef48-4068-b2b5-ce49fb3d06c0___GH_HL Leaf 397.1.JPG,Tomato___healthy,0,0,Healthy,True
+ab19440f-0642-4dd8-820f-2f67d5abee98___RS_HL 0172.JPG,Tomato___healthy,0,0,Healthy,True
+ab8170dd-6785-4298-a0a3-d2d40e9e6558___RS_HL 0192.JPG,Tomato___healthy,0,0,Healthy,True
+abaaf21a-3c59-4a00-825e-2f05f045bbf9___RS_HL 0066.JPG,Tomato___healthy,0,0,Healthy,True
+ad270b53-60f2-4d27-8d7a-54d8f60f268b___RS_HL 0253.JPG,Tomato___healthy,0,0,Healthy,True
+ad6857d9-7cf0-42ec-b61b-7b5208863831___RS_HL 0320.JPG,Tomato___healthy,0,0,Healthy,True
+ae0ad0c2-8693-4aff-8c4b-2f4d2d6f7f41___RS_HL 0454.JPG,Tomato___healthy,0,0,Healthy,True
+b0bf12cb-8868-4762-bd27-8cb3ebf69594___GH_HL Leaf 512.1.JPG,Tomato___healthy,0,0,Healthy,True
+b114c6fb-8ce0-4342-8e31-00ad83c1e1a5___RS_HL 0358.JPG,Tomato___healthy,0,0,Healthy,True
+b208c306-c151-4941-85f0-47735d9b6984___RS_HL 0263.JPG,Tomato___healthy,0,0,Healthy,True
+b2e63ab4-09d6-4b43-8767-6ce042e080b5___RS_HL 0309.JPG,Tomato___healthy,0,0,Healthy,True
+b3e76dfe-eeb0-4edf-a93c-bb7964ff57eb___GH_HL Leaf 210.4.JPG,Tomato___healthy,0,0,Healthy,True
+b3ff240c-bcdd-4926-9e87-c515cd6c2971___GH_HL Leaf 409.JPG,Tomato___healthy,0,0,Healthy,True
+b4c862d2-74e7-44c7-be0e-226be86da648___RS_HL 9725.JPG,Tomato___healthy,0,0,Healthy,True
+b66ce067-f338-4ae5-8f62-578ce164456a___RS_HL 0610.JPG,Tomato___healthy,0,0,Healthy,True
+b840b04b-5909-4e35-beb8-7f53098975b1___RS_HL 0324.JPG,Tomato___healthy,0,0,Healthy,True
+b8af2ce5-8429-4842-8ebc-c9d1ac9ed96f___GH_HL Leaf 301.JPG,Tomato___healthy,0,0,Healthy,True
+b951fffc-404c-4b85-a7ec-fe8b4f9a15fa___RS_HL 0540.JPG,Tomato___healthy,0,0,Healthy,True
+bd7ec723-4020-4d73-96b4-8c57c94e93fe___GH_HL Leaf 382.2.JPG,Tomato___healthy,0,0,Healthy,True
+c04a8a0a-2ab7-4494-9fa3-88aea29338d8___RS_HL 0015.JPG,Tomato___healthy,0,0,Healthy,True
+c0b3ea2d-4889-4693-8590-cef2d32b81e3___RS_HL 0370.JPG,Tomato___healthy,0,0,Healthy,True
+c1413079-dfb4-41c5-b129-bc5b6b419e0e___RS_HL 0133.JPG,Tomato___healthy,0,0,Healthy,True
+c1471859-34d7-495c-b280-82ea8346e99b___RS_HL 0285.JPG,Tomato___healthy,0,0,Healthy,True
+c14e3118-373b-4164-8f54-6c4239908d0f___GH_HL Leaf 488.JPG,Tomato___healthy,0,0,Healthy,True
+c17bbdf8-c589-44bc-a805-6dec51568733___GH_HL Leaf 402.JPG,Tomato___healthy,0,0,Healthy,True
+c1dfd66e-7c0c-40a7-8280-0aa1aaf5436b___GH_HL Leaf 431.JPG,Tomato___healthy,0,0,Healthy,True
+c586e5df-8410-4690-aee8-25e9ef9df9a5___GH_HL Leaf 178.1.JPG,Tomato___healthy,0,0,Healthy,True
+c60749f0-0791-49ad-a144-503d5e968746___RS_HL 0483.JPG,Tomato___healthy,0,0,Healthy,True
+c6acee22-6c56-41a8-ae90-26c6064e0261___GH_HL Leaf 468.JPG,Tomato___healthy,0,0,Healthy,True
+ca050e4b-ec58-4b88-a1be-980e908b84d4___RS_HL 0567.JPG,Tomato___healthy,0,0,Healthy,True
+ca553e23-a738-485a-95e6-3b578477d3f4___RS_HL 9854.JPG,Tomato___healthy,0,0,Healthy,True
+caa60224-1c60-455e-8b7c-e73626af84c1___GH_HL Leaf 214.JPG,Tomato___healthy,0,0,Healthy,True
+cb3ab315-c340-469c-8291-abe02183b05a___RS_HL 0161.JPG,Tomato___healthy,0,0,Healthy,True
+cbb3f283-baaa-40b1-9e46-3414d8f74f99___GH_HL Leaf 231.1.JPG,Tomato___healthy,0,0,Healthy,True
+cc289e5c-7899-4081-9ea9-c3dc3ad3d2d4___GH_HL Leaf 408.1.JPG,Tomato___healthy,0,0,Healthy,True
+cc69ca79-bef9-449b-892f-b1e76310aa60___RS_HL 9868.JPG,Tomato___healthy,0,0,Healthy,True
+ccfba9c3-41a5-40de-b71a-980bc3336ae7___GH_HL Leaf 522.2.JPG,Tomato___healthy,0,0,Healthy,True
+ce303601-b655-483c-9778-3cbd317606be___RS_HL 0163.JPG,Tomato___healthy,0,0,Healthy,True
+ce56d8ec-bfd5-4755-8010-c42658f8d597___RS_HL 0090.JPG,Tomato___healthy,0,0,Healthy,True
+d074483d-5063-4bed-93f5-c0d798e9283c___RS_HL 0231.JPG,Tomato___healthy,0,0,Healthy,True
+d2a7358e-6ba9-46ed-b5fd-5ba0fd1175f4___GH_HL Leaf 307.JPG,Tomato___healthy,0,0,Healthy,True
+d2bab7ce-8028-41ed-b0a0-22472f904974___RS_HL 0528.JPG,Tomato___healthy,0,0,Healthy,True
+d454ff7e-7a9d-45c1-b7f1-d098edcb1fa7___RS_HL 0418.JPG,Tomato___healthy,0,0,Healthy,True
+d6128bab-2cc4-4005-9184-2b7303773682___RS_HL 9828.JPG,Tomato___healthy,0,0,Healthy,True
+d6e27864-a8c9-426f-9e46-283d0eb3a7d0___RS_HL 0452.JPG,Tomato___healthy,0,0,Healthy,True
+d764f501-de57-47f4-a648-c5ece8ec59b2___RS_HL 0409.JPG,Tomato___healthy,0,0,Healthy,True
+d7aed304-347b-4c78-ac63-b29db901e1d4___RS_HL 0061.JPG,Tomato___healthy,0,0,Healthy,True
+d80d474d-1d8a-4381-8960-db93b611b5c8___GH_HL Leaf 390.JPG,Tomato___healthy,0,0,Healthy,True
+d88b90c0-2850-425d-af82-7bfb0f6a9dd4___GH_HL Leaf 361.JPG,Tomato___healthy,0,0,Healthy,True
+d8ce2a81-c366-4a88-bde3-ee9a98e1e30c___RS_HL 0036.JPG,Tomato___healthy,0,0,Healthy,True
+da36e4f1-58c4-456d-8ee3-b450e6619b2d___RS_HL 0475.JPG,Tomato___healthy,0,0,Healthy,True
+da7db6e5-d5d5-489a-b1b2-9b3a880cebaa___RS_HL 9769.JPG,Tomato___healthy,0,0,Healthy,True
+dbd289fc-1399-44fe-968d-39a5a4f16679___RS_HL 0495.JPG,Tomato___healthy,0,0,Healthy,True
+e0d4c623-8305-4ded-8164-d8fcd5bc2016___RS_HL 0448.JPG,Tomato___healthy,0,0,Healthy,True
+e1860bf2-2656-4dba-b9de-f80932bca552___RS_HL 0398.JPG,Tomato___healthy,0,0,Healthy,True
+e2869c8b-aedf-4074-bb99-28e6ed2b4223___RS_HL 9673.JPG,Tomato___healthy,0,0,Healthy,True
+e2991a66-412d-4841-8dc0-524e38338a82___GH_HL Leaf 517.1.JPG,Tomato___healthy,0,0,Healthy,True
+e5d58d21-5846-47aa-a0f7-e5f39c8f8567___RS_HL 0447.JPG,Tomato___healthy,0,0,Healthy,True
+e62a7ec8-3e5e-4a47-be14-a57db0322bb6___RS_HL 9627.JPG,Tomato___healthy,0,0,Healthy,True
+e7a9a772-95f5-4bd4-ad34-831c3c47c024___RS_HL 9909.JPG,Tomato___healthy,0,0,Healthy,True
+e9f02b46-dbb7-4f41-a1dc-6fe5dfe13d23___RS_HL 9821.JPG,Tomato___healthy,0,0,Healthy,True
+e9f45c75-db52-4a85-ab72-0b9adf1f047b___GH_HL Leaf 480.1.JPG,Tomato___healthy,0,0,Healthy,True
+ec57d9f8-7dcc-49e6-9ce7-af7d01eda4d1___RS_HL 9718.JPG,Tomato___healthy,0,0,Healthy,True
+ec59e000-1ee0-4998-a68f-abbfa6f6d009___RS_HL 0226.JPG,Tomato___healthy,0,0,Healthy,True
+ec768816-02c1-4726-9374-b6d0ccec49d2___RS_HL 0114.JPG,Tomato___healthy,0,0,Healthy,True
+efdf2bd7-ff6c-424a-9d81-dc6628278dc6___RS_HL 0065.JPG,Tomato___healthy,0,0,Healthy,True
+f0068af9-0c54-4a08-8cf1-3890bead99d0___RS_HL 0336.JPG,Tomato___healthy,0,0,Healthy,True
+f1e20811-da4e-4f0f-b8ee-f325d90f6481___RS_HL 0084.JPG,Tomato___healthy,0,0,Healthy,True
+f2758dd2-5274-45df-8f00-639731ec3120___RS_HL 9750.JPG,Tomato___healthy,0,0,Healthy,True
+f3231f5f-c6cf-4a37-a3da-5d6e7a8afb0e___RS_HL 0450.JPG,Tomato___healthy,0,0,Healthy,True
+f5252d99-6752-457b-b430-965d545d3b41___RS_HL 0412.JPG,Tomato___healthy,0,0,Healthy,True
+fb73cd43-aa32-4aba-978f-034c9c809c25___RS_HL 9749.JPG,Tomato___healthy,0,2,Late blight,False
+fc22b565-e97b-454d-8792-fd945d1badc5___RS_HL 9880.JPG,Tomato___healthy,0,0,Healthy,True
+fc5d1b1e-a225-463a-ab66-ab8f3dbf1861___GH_HL Leaf 363.JPG,Tomato___healthy,0,0,Healthy,True
+fd1db002-680b-432b-9d60-68b80a4a310f___RS_HL 0049.JPG,Tomato___healthy,0,0,Healthy,True
+fe0b76dc-4263-4cda-8840-310ebe72a432___GH_HL Leaf 490.JPG,Tomato___healthy,0,0,Healthy,True
+ff8b36d5-feaf-4d2d-8126-18670a312657___RS_HL 0229.JPG,Tomato___healthy,0,0,Healthy,True
+004cbe60-8ff9-4965-92df-e86694d5e9ba___RS_Erly.B 8253.JPG,Tomato___Early_blight,1,2,Late blight,False
+011aa278-a39e-40b0-b6e4-2e2f835889f0___RS_Erly.B 8251.JPG,Tomato___Early_blight,1,1,Early blight,True
+01861c93-ea8b-4820-aaa8-cc6003b3e75b___RS_Erly.B 7855.JPG,Tomato___Early_blight,1,2,Late blight,False
+023fe2d4-6e1d-40ce-99ae-85ba90f436ff___RS_Erly.B 6354.JPG,Tomato___Early_blight,1,2,Late blight,False
+07324d80-17c5-4541-9702-62e9c744ac07___RS_Erly.B 7455.JPG,Tomato___Early_blight,1,1,Early blight,True
+07409e2c-a730-4b11-b25e-31025bd63a91___RS_Erly.B 9578.JPG,Tomato___Early_blight,1,1,Early blight,True
+0bb52721-51a6-4343-8c54-de15cedf8e5c___RS_Erly.B 7572.JPG,Tomato___Early_blight,1,1,Early blight,True
+0bd357fe-1e54-4c65-979c-e894e0b8a3aa___RS_Erly.B 8328.JPG,Tomato___Early_blight,1,1,Early blight,True
+0cd2270f-87f8-45b5-a4af-19fa34b2acaa___RS_Erly.B 9567.JPG,Tomato___Early_blight,1,1,Early blight,True
+0f03a09c-aa48-4d51-95e1-752c466c3742___RS_Erly.B 6413.JPG,Tomato___Early_blight,1,1,Early blight,True
+0f7a2408-9c26-4ff9-bee5-2bfcd91a11f7___RS_Erly.B 9440.JPG,Tomato___Early_blight,1,1,Early blight,True
+0fbc786c-62a7-44f3-8db8-2649809bf1aa___RS_Erly.B 9514.JPG,Tomato___Early_blight,1,1,Early blight,True
+10a46a0b-debe-49f9-8562-c7c81855160e___RS_Erly.B 6339.JPG,Tomato___Early_blight,1,1,Early blight,True
+10e7dcfd-2cbc-4623-ba9f-94f0e2e4fe13___RS_Erly.B 7648.JPG,Tomato___Early_blight,1,1,Early blight,True
+11922494-321b-4742-afbe-f6db6a8b4005___RS_Erly.B 9392.JPG,Tomato___Early_blight,1,2,Late blight,False
+15fb19ad-8a5a-4e1b-8ed2-c8d48b006b1d___RS_Erly.B 7674.JPG,Tomato___Early_blight,1,1,Early blight,True
+17a09abf-ee69-4d46-ac80-f8608d799b19___RS_Erly.B 7451.JPG,Tomato___Early_blight,1,1,Early blight,True
+19427ace-5a24-4e30-8a4d-228ab4a3b99b___RS_Erly.B 7403.JPG,Tomato___Early_blight,1,1,Early blight,True
+1a8bd88f-309f-4392-b387-7cb423ef0ab6___RS_Erly.B 7366.JPG,Tomato___Early_blight,1,1,Early blight,True
+1ba88993-c3f8-462d-bd1b-e10819b9c96f___RS_Erly.B 8396.JPG,Tomato___Early_blight,1,1,Early blight,True
+1bdb9ab4-1a7a-449a-b848-c446d7615d42___RS_Erly.B 8443.JPG,Tomato___Early_blight,1,1,Early blight,True
+1c71757d-d351-4016-b5bb-06a63d0f2e24___RS_Erly.B 6388.JPG,Tomato___Early_blight,1,1,Early blight,True
+1d3d164e-43a9-4e0a-9e4f-9c9abab64d88___RS_Erly.B 7824.JPG,Tomato___Early_blight,1,1,Early blight,True
+1dad664e-ec73-474e-aaf9-a832ca212e3f___RS_Erly.B 7533.JPG,Tomato___Early_blight,1,1,Early blight,True
+1de17623-e625-4a3a-91e8-64973e6d09fd___RS_Erly.B 9577.JPG,Tomato___Early_blight,1,1,Early blight,True
+1e503089-ae6a-4340-8c3c-f44cbaa6cf6f___RS_Erly.B 8264.JPG,Tomato___Early_blight,1,1,Early blight,True
+1f4c6478-a39b-4974-aeef-3fcfa5ea69a6___RS_Erly.B 7385.JPG,Tomato___Early_blight,1,1,Early blight,True
+1f4c9f8a-5672-4e47-84dd-55f85f953174___RS_Erly.B 7582.JPG,Tomato___Early_blight,1,1,Early blight,True
+21f9a0a5-b145-40e7-8884-df2bb52eb592___RS_Erly.B 7391.JPG,Tomato___Early_blight,1,1,Early blight,True
+2245fdf5-3ff5-4624-9797-0b65bcc6cf73___RS_Erly.B 6358.JPG,Tomato___Early_blight,1,2,Late blight,False
+22b8de0e-636d-4407-a270-ef3614c33227___RS_Erly.B 8257.JPG,Tomato___Early_blight,1,2,Late blight,False
+24379205-969e-4cd0-9232-176c83364d60___RS_Erly.B 7617.JPG,Tomato___Early_blight,1,1,Early blight,True
+243a77c6-b401-43c4-9230-68b4b11f3b83___RS_Erly.B 7754.JPG,Tomato___Early_blight,1,2,Late blight,False
+248a61d1-ed39-452b-b985-77120c1edc7a___RS_Erly.B 7669.JPG,Tomato___Early_blight,1,1,Early blight,True
+24f5a397-b5ac-451c-b979-28ee2bb056e6___RS_Erly.B 7795.JPG,Tomato___Early_blight,1,1,Early blight,True
+257ffdcb-bd8b-4d18-98cc-e63a118155ea___RS_Erly.B 9520.JPG,Tomato___Early_blight,1,1,Early blight,True
+2792287f-aa8e-4c03-aabe-479e75cdc0f8___RS_Erly.B 9584.JPG,Tomato___Early_blight,1,1,Early blight,True
+28d9f1bd-ee80-46e1-b89c-5a855f0c8400___RS_Erly.B 7818.JPG,Tomato___Early_blight,1,0,Healthy,False
+2ab7f21e-4a55-4895-acdb-5f161167a0f1___RS_Erly.B 8318.JPG,Tomato___Early_blight,1,1,Early blight,True
+32065728-b0b0-4840-b2cc-7461b371e57f___RS_Erly.B 6407.JPG,Tomato___Early_blight,1,1,Early blight,True
+3253ff4e-90ab-475a-89d2-f99875c53367___RS_Erly.B 8356.JPG,Tomato___Early_blight,1,2,Late blight,False
+32f37240-9abc-4a4d-8c62-37ee3e89d0b6___RS_Erly.B 6424.JPG,Tomato___Early_blight,1,1,Early blight,True
+33cd99f1-1f8a-497b-b4fc-60ff78af4b8a___RS_Erly.B 8378.JPG,Tomato___Early_blight,1,1,Early blight,True
+3596fc7f-e79e-44f5-862a-f177db2960f6___RS_Erly.B 6386.JPG,Tomato___Early_blight,1,1,Early blight,True
+375a4113-c296-4b3a-897b-da6f4ac660dc___RS_Erly.B 6408.JPG,Tomato___Early_blight,1,1,Early blight,True
+38c6a01b-91c0-431b-8f58-05fa43cf94b7___RS_Erly.B 9408.JPG,Tomato___Early_blight,1,1,Early blight,True
+3a5a5775-fd2c-43ea-ad6b-ce2e50b36dcf___RS_Erly.B 6469.JPG,Tomato___Early_blight,1,1,Early blight,True
+3af16e88-1b4d-46d5-a099-7450600f11e8___RS_Erly.B 9545.JPG,Tomato___Early_blight,1,1,Early blight,True
+3d7f5e7a-3149-4bce-8fc3-f0df073d5a73___RS_Erly.B 7518.JPG,Tomato___Early_blight,1,1,Early blight,True
+3daf2ed3-e39b-4b4d-a691-a7722ef8ed32___RS_Erly.B 7373.JPG,Tomato___Early_blight,1,1,Early blight,True
+40b67c0a-5dd8-435c-80ed-764593d2147a___RS_Erly.B 7577.JPG,Tomato___Early_blight,1,1,Early blight,True
+40e8b878-dc2f-4cbd-ac31-c07f372bb0fa___RS_Erly.B 7369.JPG,Tomato___Early_blight,1,1,Early blight,True
+420da335-510d-4e55-ac9c-2cad3530ad68___RS_Erly.B 8442.JPG,Tomato___Early_blight,1,1,Early blight,True
+45a51377-1fd4-45f3-bfdb-02d9d0953ab2___RS_Erly.B 9471.JPG,Tomato___Early_blight,1,1,Early blight,True
+45d27217-fbb3-4b74-93e7-d84f70b784f8___RS_Erly.B 7713.JPG,Tomato___Early_blight,1,1,Early blight,True
+468a0f48-b0c4-4969-9f21-826cb3ae3f61___RS_Erly.B 7725.JPG,Tomato___Early_blight,1,1,Early blight,True
+47465f0e-80ef-4641-b24b-7147dd82596d___RS_Erly.B 9473.JPG,Tomato___Early_blight,1,1,Early blight,True
+484250ea-cc2c-4614-bee8-7f24007e00ac___RS_Erly.B 9463.JPG,Tomato___Early_blight,1,1,Early blight,True
+48dd3efc-400d-4b81-a569-13a51083df58___RS_Erly.B 7718.JPG,Tomato___Early_blight,1,0,Healthy,False
+493f53cc-b8d5-4c71-9446-30f0365f1e4b___RS_Erly.B 7583.JPG,Tomato___Early_blight,1,1,Early blight,True
+4a063384-a4c0-4acc-a787-8236eb40a54e___RS_Erly.B 8281.JPG,Tomato___Early_blight,1,1,Early blight,True
+4b8821ef-8364-4a04-9549-58d58ffe0411___RS_Erly.B 7704.JPG,Tomato___Early_blight,1,2,Late blight,False
+4ce52d04-06f4-4b35-af47-804fdabed996___RS_Erly.B 8254.JPG,Tomato___Early_blight,1,1,Early blight,True
+4e5f8530-2696-433d-91ec-5f53488b1d18___RS_Erly.B 8299.JPG,Tomato___Early_blight,1,1,Early blight,True
+4e8e92ba-46f4-4e49-850b-71019f6c8640___RS_Erly.B 6346.JPG,Tomato___Early_blight,1,2,Late blight,False
+4ee9cff7-9693-4d51-821b-da31e5df240c___RS_Erly.B 7427.JPG,Tomato___Early_blight,1,2,Late blight,False
+50cd977c-9fa8-4ff2-9a82-9d848f0a8972___RS_Erly.B 7683.JPG,Tomato___Early_blight,1,1,Early blight,True
+51764eb9-fb8b-4c8a-9c30-3b474d659751___RS_Erly.B 7529.JPG,Tomato___Early_blight,1,1,Early blight,True
+53c47cc3-e958-4e9a-811a-e19e99ef0a8c___RS_Erly.B 6373.JPG,Tomato___Early_blight,1,1,Early blight,True
+55d4f7b2-17d3-4987-92fe-6aff1a8c4f3a___RS_Erly.B 7558.JPG,Tomato___Early_blight,1,1,Early blight,True
+59cbcb57-16e3-4e35-a1d6-8672678c9d8d___RS_Erly.B 6489.JPG,Tomato___Early_blight,1,2,Late blight,False
+5ac54e63-40a4-4651-a900-fd3ab4d32bae___RS_Erly.B 7727.JPG,Tomato___Early_blight,1,1,Early blight,True
+5adb20df-006b-4a5d-a1c4-c8284eee9e20___RS_Erly.B 9484.JPG,Tomato___Early_blight,1,2,Late blight,False
+5b71fe03-84fc-4866-9bf8-e557ce918c6e___RS_Erly.B 9580.JPG,Tomato___Early_blight,1,1,Early blight,True
+5bbfc062-042e-4929-98ba-fd034a03092d___RS_Erly.B 7581.JPG,Tomato___Early_blight,1,1,Early blight,True
+5d0f4647-6f88-4c84-bacf-d6bc4d469c4d___RS_Erly.B 8411.JPG,Tomato___Early_blight,1,1,Early blight,True
+5d45c117-439e-454a-bc77-93a27ce98761___RS_Erly.B 7546.JPG,Tomato___Early_blight,1,1,Early blight,True
+605e0af6-415f-4e25-8f0d-a8f36371732b___RS_Erly.B 7827.JPG,Tomato___Early_blight,1,1,Early blight,True
+61f57acc-088f-45e0-b0b5-860120082ae9___RS_Erly.B 7388.JPG,Tomato___Early_blight,1,1,Early blight,True
+6485f47f-79cf-455f-9d6c-dbb04ddb580f___RS_Erly.B 7576.JPG,Tomato___Early_blight,1,1,Early blight,True
+6ceca8a9-a257-4238-a779-bdb0dccc528e___RS_Erly.B 7604.JPG,Tomato___Early_blight,1,1,Early blight,True
+71eb9b0a-a7ea-47a0-8108-71949d74e22d___RS_Erly.B 7557.JPG,Tomato___Early_blight,1,1,Early blight,True
+7984dac1-acc8-466a-bbee-7377ea702462___RS_Erly.B 8386.JPG,Tomato___Early_blight,1,1,Early blight,True
+79b737a7-eca5-4eb9-b30e-dd3e85640e55___RS_Erly.B 9492.JPG,Tomato___Early_blight,1,1,Early blight,True
+7b377a4c-886c-46c5-8a57-a636cc47c9a8___RS_Erly.B 6475.JPG,Tomato___Early_blight,1,2,Late blight,False
+7b4b71f7-ba45-45b8-80c4-a80ae73b9d0f___RS_Erly.B 7611.JPG,Tomato___Early_blight,1,1,Early blight,True
+7b7780c0-f1b2-4095-924c-f3d7777b427e___RS_Erly.B 9613.JPG,Tomato___Early_blight,1,1,Early blight,True
+7c691a49-8a56-49d2-856f-6c20c34e257b___RS_Erly.B 9586.JPG,Tomato___Early_blight,1,2,Late blight,False
+7fe26a53-b4d8-4069-bb0a-1c6d19cbc4e1___RS_Erly.B 7810.JPG,Tomato___Early_blight,1,1,Early blight,True
+851570c6-01ac-49e1-a37e-a657ebd46cba___RS_Erly.B 7717.JPG,Tomato___Early_blight,1,1,Early blight,True
+862c7fa2-1ab0-4bce-9f9b-76cbb4a096e1___RS_Erly.B 7521.JPG,Tomato___Early_blight,1,1,Early blight,True
+87725f1b-be8c-42b8-8eed-671b0c52276d___RS_Erly.B 7431.JPG,Tomato___Early_blight,1,1,Early blight,True
+8a13da5b-4bc2-485a-962d-df8c6634ea00___RS_Erly.B 7519.JPG,Tomato___Early_blight,1,1,Early blight,True
+8ac21e2c-f953-4e96-8d43-e82dae24017e___RS_Erly.B 7459.JPG,Tomato___Early_blight,1,2,Late blight,False
+8d70db5b-7916-4397-836d-6a73a2faaead___RS_Erly.B 6330.JPG,Tomato___Early_blight,1,2,Late blight,False
+8ed69ac4-4692-4154-a484-8a693ff7de64___RS_Erly.B 7775.JPG,Tomato___Early_blight,1,2,Late blight,False
+92df4dc7-e952-4454-9fed-a7897d16903b___RS_Erly.B 6448.JPG,Tomato___Early_blight,1,1,Early blight,True
+9cd2e960-3941-4b60-84fb-0ed227c26ed7___RS_Erly.B 7839.JPG,Tomato___Early_blight,1,1,Early blight,True
+a1e875bd-5c06-4031-b0c0-9413d754df0e___RS_Erly.B 8221.JPG,Tomato___Early_blight,1,2,Late blight,False
+a20bd77c-4ecf-473c-89aa-329b1719fbe1___RS_Erly.B 7639.JPG,Tomato___Early_blight,1,1,Early blight,True
+a24d6927-cb21-4d9b-acc1-780ef36cbbf8___RS_Erly.B 7671.JPG,Tomato___Early_blight,1,1,Early blight,True
+a278a40a-bb25-4210-b646-2d232245851a___RS_Erly.B 7719.JPG,Tomato___Early_blight,1,1,Early blight,True
+a2b13360-65ce-4302-8bec-50bdc1b9789d___RS_Erly.B 9446.JPG,Tomato___Early_blight,1,1,Early blight,True
+a2da7455-c116-4d02-b506-89183f817d78___RS_Erly.B 9371.JPG,Tomato___Early_blight,1,2,Late blight,False
+a3d07302-420d-4b4e-94f2-6694ef9d2088___RS_Erly.B 7652.JPG,Tomato___Early_blight,1,1,Early blight,True
+a48e8b60-3636-4f7e-8ce2-d6625d866720___RS_Erly.B 7458.JPG,Tomato___Early_blight,1,1,Early blight,True
+a4bf3663-8d32-49e7-8394-cd0d29531704___RS_Erly.B 9465.JPG,Tomato___Early_blight,1,1,Early blight,True
+a5c26ace-e91d-4afc-a958-eee6bbe7aed2___RS_Erly.B 6361.JPG,Tomato___Early_blight,1,1,Early blight,True
+a6041f09-68f2-4865-ad78-81018617d2c4___RS_Erly.B 6450.JPG,Tomato___Early_blight,1,1,Early blight,True
+a7a4d12c-61bf-401d-ab88-0572c4dec56d___RS_Erly.B 9464.JPG,Tomato___Early_blight,1,2,Late blight,False
+a8cade96-090a-4dcd-bc79-d13a4046370d___RS_Erly.B 7721.JPG,Tomato___Early_blight,1,1,Early blight,True
+aafda29f-64e8-4f9a-8b71-d32b5ee27fef___RS_Erly.B 9431.JPG,Tomato___Early_blight,1,1,Early blight,True
+abb2b25f-a1a8-49c7-8bc9-a66dc224481d___RS_Erly.B 9573.JPG,Tomato___Early_blight,1,1,Early blight,True
+ac04851f-ae27-4dc8-9ccf-d23e5a56d6f3___RS_Erly.B 9587.JPG,Tomato___Early_blight,1,2,Late blight,False
+acc5fb41-7b03-44c2-8167-47346b97791a___RS_Erly.B 8320.JPG,Tomato___Early_blight,1,1,Early blight,True
+ad302c48-1f27-43d8-b004-4ca61dfa61c1___RS_Erly.B 7566.JPG,Tomato___Early_blight,1,1,Early blight,True
+aea7d3be-648a-4e1b-932a-b0058b085a7a___RS_Erly.B 9517.JPG,Tomato___Early_blight,1,1,Early blight,True
+aeb5a5ed-0672-49e9-a805-74b9390d4972___RS_Erly.B 9529.JPG,Tomato___Early_blight,1,1,Early blight,True
+b4cfa208-cee0-4383-b0e2-6988814fbb9a___RS_Erly.B 7645.JPG,Tomato___Early_blight,1,1,Early blight,True
+b5367f51-874a-4202-a6b6-02327196fd93___RS_Erly.B 8235.JPG,Tomato___Early_blight,1,1,Early blight,True
+b60702b4-a7dd-4201-bfcc-4a13c7dcc44f___RS_Erly.B 7657.JPG,Tomato___Early_blight,1,1,Early blight,True
+b63549aa-e944-482e-9329-3b1fb95f92c8___RS_Erly.B 9597.JPG,Tomato___Early_blight,1,1,Early blight,True
+b6611980-ad87-4121-a6d0-b648b946b432___RS_Erly.B 8426.JPG,Tomato___Early_blight,1,2,Late blight,False
+ba75cd48-68cb-49cb-9d79-d03c1b007852___RS_Erly.B 7432.JPG,Tomato___Early_blight,1,1,Early blight,True
+bb2586ff-9676-4100-89f7-200d9ce5ecd6___RS_Erly.B 9386.JPG,Tomato___Early_blight,1,1,Early blight,True
+bd0f06fb-1f9a-4de8-8c96-926d312cea27___RS_Erly.B 7603.JPG,Tomato___Early_blight,1,1,Early blight,True
+bde8917a-9b0c-4a7b-8ff1-26f31609d6d7___RS_Erly.B 7750.JPG,Tomato___Early_blight,1,1,Early blight,True
+bec8a4aa-dd9c-44db-815a-c760d49a8868___RS_Erly.B 7680.JPG,Tomato___Early_blight,1,1,Early blight,True
+c084fdcc-8347-4e73-be57-e66840ffba28___RS_Erly.B 7787.JPG,Tomato___Early_blight,1,1,Early blight,True
+c684414e-2c2b-4d12-bca0-2a5fb271e1da___RS_Erly.B 8425.JPG,Tomato___Early_blight,1,1,Early blight,True
+c882c715-ae30-410e-9585-bd7061cf44a4___RS_Erly.B 7734.JPG,Tomato___Early_blight,1,1,Early blight,True
+c9ff37ca-a310-49ad-8978-0913b3c55f58___RS_Erly.B 7714.JPG,Tomato___Early_blight,1,0,Healthy,False
+ca408b6b-bc8b-45a0-a04e-f0341169524c___RS_Erly.B 7640.JPG,Tomato___Early_blight,1,1,Early blight,True
+cc60f915-6dc1-42f2-8e12-aedaef4bc70c___RS_Erly.B 6468.JPG,Tomato___Early_blight,1,1,Early blight,True
+cdb26b0e-04b6-4ccf-855c-d85a106c1f95___RS_Erly.B 8387.JPG,Tomato___Early_blight,1,1,Early blight,True
+cef9fa90-aca2-4354-b79e-2486409ac685___RS_Erly.B 7563.JPG,Tomato___Early_blight,1,1,Early blight,True
+d1668361-aac6-41e3-b729-c5e5092326c1___RS_Erly.B 7562.JPG,Tomato___Early_blight,1,1,Early blight,True
+d3b3f060-60d3-4b72-8797-8406fcf2815f___RS_Erly.B 7607.JPG,Tomato___Early_blight,1,1,Early blight,True
+d4d20c99-4cf3-4ecc-95ae-a964560cfeed___RS_Erly.B 9604.JPG,Tomato___Early_blight,1,1,Early blight,True
+d53bdcff-1ea7-46c7-9d46-701d104bf130___RS_Erly.B 8353.JPG,Tomato___Early_blight,1,2,Late blight,False
+dc5fc62b-20c7-441b-bd70-aa24790302eb___RS_Erly.B 9510.JPG,Tomato___Early_blight,1,2,Late blight,False
+dfa9f6bb-92ac-4b41-ac6c-fd2a7ddd093a___RS_Erly.B 8276.JPG,Tomato___Early_blight,1,1,Early blight,True
+e219e45e-3a8e-46dc-9621-9914f42bf3af___RS_Erly.B 7838.JPG,Tomato___Early_blight,1,1,Early blight,True
+e2e0a1a0-4f52-4320-ac24-69fa7f0fd033___RS_Erly.B 9596.JPG,Tomato___Early_blight,1,1,Early blight,True
+e2edea17-f5cf-4496-8cce-7e421375c452___RS_Erly.B 7666.JPG,Tomato___Early_blight,1,1,Early blight,True
+e5266d06-0ba7-49c6-9bc6-c8351b56fc88___RS_Erly.B 8294.JPG,Tomato___Early_blight,1,1,Early blight,True
+e803b217-d9a9-4b0d-9ea1-679145625159___RS_Erly.B 9571.JPG,Tomato___Early_blight,1,1,Early blight,True
+e94d68c8-f185-4b3d-9b44-ad12e3dc891d___RS_Erly.B 9598.JPG,Tomato___Early_blight,1,1,Early blight,True
+eaaea397-5e49-47e8-adad-f9a17e1cce65___RS_Erly.B 6487.JPG,Tomato___Early_blight,1,1,Early blight,True
+f26a0950-0a68-4850-8945-a8aca58da4fa___RS_Erly.B 7505.JPG,Tomato___Early_blight,1,1,Early blight,True
+f5ec4428-6e58-4bc6-9ba2-3a6f5b4f374e___RS_Erly.B 6365.JPG,Tomato___Early_blight,1,1,Early blight,True
+f79134d0-8c6a-43ad-ba78-9323f9a9f84f___RS_Erly.B 9427.JPG,Tomato___Early_blight,1,1,Early blight,True
+f88be630-f853-48f8-b546-a2f7966368a2___RS_Erly.B 7418.JPG,Tomato___Early_blight,1,1,Early blight,True
+f899b748-cd86-460f-a202-a6946e04946e___RS_Erly.B 7494.JPG,Tomato___Early_blight,1,1,Early blight,True
+fad513f7-c56a-439a-9a5b-515bd0fc8151___RS_Erly.B 9458.JPG,Tomato___Early_blight,1,1,Early blight,True
+fae08468-fe96-4604-9b86-bfe4c4f06999___RS_Erly.B 9530.JPG,Tomato___Early_blight,1,1,Early blight,True
+fb956247-8c0b-486a-b491-4d49e77e598e___RS_Erly.B 7842.JPG,Tomato___Early_blight,1,1,Early blight,True
+fc296f63-8cb3-42f1-a9c1-f6ed8e49777c___RS_Erly.B 6400.JPG,Tomato___Early_blight,1,2,Late blight,False
+fc38942e-e609-41a2-970c-cc1a67b16fe2___RS_Erly.B 7793.JPG,Tomato___Early_blight,1,1,Early blight,True
+fe79c70c-0977-43f3-ad1b-3a1b4bceeceb___RS_Erly.B 7506.JPG,Tomato___Early_blight,1,1,Early blight,True
+005e3b43-9050-47da-9498-f9ecdcc703b3___RS_Late.B 5104.JPG,Tomato___Late_blight,2,1,Early blight,False
+01425d17-4c97-46e3-b395-c1453b78ab78___GHLB2 Leaf 9100.JPG,Tomato___Late_blight,2,2,Late blight,True
+01c391d2-1b3a-4b58-b205-a75674bba6e9___GHLB2 Leaf 8824.JPG,Tomato___Late_blight,2,2,Late blight,True
+021ca736-df21-458a-9010-fab4803f08fe___RS_Late.B 7010.JPG,Tomato___Late_blight,2,2,Late blight,True
+0220afd9-d40e-4b72-8405-78b417c7b8af___GHLB2 Leaf 8987.JPG,Tomato___Late_blight,2,2,Late blight,True
+02790384-a589-421b-8695-693e77970418___GHLB2 Leaf 8920.JPG,Tomato___Late_blight,2,2,Late blight,True
+049dbcab-de65-4f09-9b1b-e59886f56f2e___RS_Late.B 5141.JPG,Tomato___Late_blight,2,2,Late blight,True
+0545d961-8c4c-43ee-9574-e05d7682a99f___GHLB2 Leaf 8631.JPG,Tomato___Late_blight,2,2,Late blight,True
+06913075-dad1-4047-b5a2-74fe680efa3b___RS_Late.B 6048.JPG,Tomato___Late_blight,2,2,Late blight,True
+06a7cfd9-0992-4020-8a11-79249d657c0c___GHLB2 Leaf 131.JPG,Tomato___Late_blight,2,1,Early blight,False
+06b911b8-1375-4da1-929c-2294c4051ece___GHLB2 Leaf 8883.JPG,Tomato___Late_blight,2,2,Late blight,True
+07672c2f-860a-455f-9fa4-f761f4bc090e___RS_Late.B 5017.JPG,Tomato___Late_blight,2,2,Late blight,True
+077c04cc-184d-4efd-bbc3-093cd61bedef___RS_Late.B 5560.JPG,Tomato___Late_blight,2,1,Early blight,False
+078a999d-6e6f-427e-a1e6-80b4d2df2bae___GHLB2 Leaf 9029.JPG,Tomato___Late_blight,2,2,Late blight,True
+08593ca1-a595-44d1-8052-3d1430f305d3___GHLB2 Leaf 8579.JPG,Tomato___Late_blight,2,2,Late blight,True
+0879b927-2226-455f-9eac-10f5e1f36fdd___RS_Late.B 5331.JPG,Tomato___Late_blight,2,2,Late blight,True
+08931b78-a571-41bf-b5b4-6904ffbbe8b7___GHLB Leaf 1.1 Day 12.JPG,Tomato___Late_blight,2,2,Late blight,True
+08a723e4-6b51-4395-8013-b1f3f03709b8___GHLB2 Leaf 8967.JPG,Tomato___Late_blight,2,2,Late blight,True
+0931f7e6-8481-4d03-8fe6-d4ae7637142d___RS_Late.B 4917.JPG,Tomato___Late_blight,2,1,Early blight,False
+0b3c7107-cef9-455e-8fa0-30039b9fc206___RS_Late.B 5038.JPG,Tomato___Late_blight,2,2,Late blight,True
+0b6caac4-cc62-4c46-9de4-1815a0aa6dbe___GHLB2 Leaf 8799.JPG,Tomato___Late_blight,2,2,Late blight,True
+0b988f87-fdce-40ba-aa09-7e6c9e1d6d30___GHLB_PS Leaf 21 Day 8.jpg,Tomato___Late_blight,2,2,Late blight,True
+0ba7d3d8-5c4c-4365-ba0c-69f61e96a36e___RS_Late.B 5312.JPG,Tomato___Late_blight,2,2,Late blight,True
+0da23640-656e-4f03-be14-4b4b36811861___GHLB2 Leaf 9072.JPG,Tomato___Late_blight,2,2,Late blight,True
+0da53824-7b3b-43a9-9b34-146a7f71ef7e___RS_Late.B 6958.JPG,Tomato___Late_blight,2,2,Late blight,True
+0e669afb-1315-4903-b7ca-1a0ffa95d454___RS_Late.B 5626.JPG,Tomato___Late_blight,2,2,Late blight,True
+0f67214c-eede-4292-b731-30ef1c47b7b6___RS_Late.B 4902.JPG,Tomato___Late_blight,2,2,Late blight,True
+1058d7d2-1b7d-40cc-ab26-95b2da23198b___RS_Late.B 4964.JPG,Tomato___Late_blight,2,2,Late blight,True
+1159051e-1278-4b35-929c-e26b963d048f___GHLB_PS Leaf 8.1 Day 16.jpg,Tomato___Late_blight,2,2,Late blight,True
+123c4b62-8641-4d88-b8cd-1c2e24a6c3a5___GHLB_PS Leaf 26.2 Day 13.jpg,Tomato___Late_blight,2,2,Late blight,True
+13533985-e30d-4023-8bd3-7a45b07816ca___RS_Late.B 5593.JPG,Tomato___Late_blight,2,2,Late blight,True
+16064333-c2da-40e0-9f24-c709191e66b1___RS_Late.B 5421.JPG,Tomato___Late_blight,2,2,Late blight,True
+1627cb48-dc80-46a1-bda0-b677c32fbf56___RS_Late.B 5066.JPG,Tomato___Late_blight,2,1,Early blight,False
+16984239-2e67-407e-b600-4a3666500534___RS_Late.B 5182.JPG,Tomato___Late_blight,2,2,Late blight,True
+16b43113-cc8c-4082-a88f-648b79036e49___GHLB_PS Leaf 23.4 Day 13.jpg,Tomato___Late_blight,2,2,Late blight,True
+17fcb016-4663-4f95-bc0b-b40392235015___GHLB_PS Leaf 35.1 Day 13.jpg,Tomato___Late_blight,2,2,Late blight,True
+18cb836c-f351-41e4-933a-fae2feb4b9ad___RS_Late.B 6050.JPG,Tomato___Late_blight,2,2,Late blight,True
+1909260c-1e08-4a8f-a702-60549ada08b2___RS_Late.B 6671.JPG,Tomato___Late_blight,2,2,Late blight,True
+1a9a2cbf-75f3-4dd9-93ef-3d3c58e97d06___GHLB2 Leaf 8666.JPG,Tomato___Late_blight,2,2,Late blight,True
+1af98b62-adaf-43d0-b4eb-83ab3f1ee084___RS_Late.B 4908.JPG,Tomato___Late_blight,2,2,Late blight,True
+1ba00fc3-a45b-4d23-94da-5e090ba7f3d3___RS_Late.B 6403.JPG,Tomato___Late_blight,2,2,Late blight,True
+1c5deb80-6bde-4aa4-843e-c69f80b7713a___RS_Late.B 6874.JPG,Tomato___Late_blight,2,2,Late blight,True
+1e0adf6c-906f-4e8f-bfea-cdebf491f3bb___GHLB2 Leaf 8572.JPG,Tomato___Late_blight,2,2,Late blight,True
+1e2fe7d3-3d69-4cf6-aef7-e9975940bd40___GHLB2 Leaf 77.JPG,Tomato___Late_blight,2,2,Late blight,True
+1ec9c019-1594-4916-a04c-65b87eceb8ca___RS_Late.B 6069.JPG,Tomato___Late_blight,2,1,Early blight,False
+1f38a263-cfb5-47fe-8c0e-f8d62141f922___GHLB_PS leaf 28 Day 12 .jpg,Tomato___Late_blight,2,2,Late blight,True
+1f73406a-14e8-4be2-8450-9379d4f9b2b5___GHLB2 Leaf 9062.JPG,Tomato___Late_blight,2,2,Late blight,True
+2018ff03-69eb-437f-96e2-f51801042c32___RS_Late.B 6157.JPG,Tomato___Late_blight,2,2,Late blight,True
+2159d0f7-09ef-46ad-ad49-749e8ce1becc___GHLB2 Leaf 8836.JPG,Tomato___Late_blight,2,2,Late blight,True
+22a34aab-076c-4e49-a584-9377c07b45aa___RS_Late.B 4866.JPG,Tomato___Late_blight,2,2,Late blight,True
+22c36fa3-849f-4918-8790-99a8bda1e527___RS_Late.B 5987.JPG,Tomato___Late_blight,2,2,Late blight,True
+231e8502-72a3-4717-9ab7-919d02f6be1b___GHLB_PS Leaf 27.4 Day 13.jpg,Tomato___Late_blight,2,2,Late blight,True
+233f5fca-7077-4175-a29f-57f310ea7879___GHLB_PS Leaf 51 Day 18.jpg,Tomato___Late_blight,2,2,Late blight,True
+239111ba-7348-4075-bacb-e206d440ecc8___RS_Late.B 5389.JPG,Tomato___Late_blight,2,2,Late blight,True
+240b17f3-2b2b-4ff4-add7-4ba2975f4837___RS_Late.B 5130.JPG,Tomato___Late_blight,2,2,Late blight,True
+24364b4f-3f9f-4166-860d-34a938d3d630___RS_Late.B 4986.JPG,Tomato___Late_blight,2,2,Late blight,True
+24c41335-1ad7-4b68-9756-577ed8cf3525___GHLB2 Leaf 144.1.JPG,Tomato___Late_blight,2,2,Late blight,True
+275e6226-c0a6-482d-b382-da22452db846___GHLB2 Leaf 8607.JPG,Tomato___Late_blight,2,2,Late blight,True
+2765f9f5-9af9-473d-be58-208d1f3650d3___RS_Late.B 6536.JPG,Tomato___Late_blight,2,2,Late blight,True
+27dd7c54-809f-445e-97a5-ba0792d4592b___RS_Late.B 6371.JPG,Tomato___Late_blight,2,2,Late blight,True
+29587a7b-a64d-4d2e-8fab-d0ec587e8ecd___GHLB2 Leaf 9081.JPG,Tomato___Late_blight,2,2,Late blight,True
+29e924db-ef09-49f2-9db3-e3c548a444d5___GHLB_PS Leaf 17.1 Day 9.jpg,Tomato___Late_blight,2,2,Late blight,True
+29eb16c9-e283-46f3-b373-4cfb2cd511d2___GHLB2 Leaf 9055.JPG,Tomato___Late_blight,2,2,Late blight,True
+2aec9930-0331-4e04-8bc0-5c00f373fbf3___GHLB2 Leaf 8993.JPG,Tomato___Late_blight,2,2,Late blight,True
+2c2326e9-eb07-45c1-8296-116df4108c03___RS_Late.B 4834.JPG,Tomato___Late_blight,2,2,Late blight,True
+2d7fa670-2828-440e-aba2-1f7a843988ea___GHLB2 Leaf 8869.JPG,Tomato___Late_blight,2,2,Late blight,True
+2dc5d67b-cfe6-4337-b966-4a499bfad825___GHLB2 Leaf 8761.JPG,Tomato___Late_blight,2,2,Late blight,True
+2e62a850-078e-44ce-ac30-6b940479e017___RS_Late.B 6080.JPG,Tomato___Late_blight,2,2,Late blight,True
+2e6fd489-d873-4fc6-a908-467765017508___GHLB2 Leaf 151.JPG,Tomato___Late_blight,2,2,Late blight,True
+2ec39ffa-c356-4d31-8153-f2e4bc9a1449___RS_Late.B 5164.JPG,Tomato___Late_blight,2,2,Late blight,True
+2f08688f-f6ea-4772-bfa3-5a995e38988c___GHLB2 Leaf 8827.JPG,Tomato___Late_blight,2,2,Late blight,True
+2fd3c2fb-ebd9-48f3-810a-8e365c0db1e2___RS_Late.B 5347.JPG,Tomato___Late_blight,2,2,Late blight,True
+3152f2ab-94e6-4e06-8fb9-568c45d31b0b___RS_Late.B 6175.JPG,Tomato___Late_blight,2,2,Late blight,True
+31eb8659-67c1-4cc6-b0b9-1d5ffe9eed0b___GHLB_PS Leaf 2.3 Day 18.jpg,Tomato___Late_blight,2,2,Late blight,True
+31f64c4e-cb26-44a6-a208-5a88d7d486e8___GHLB2 Leaf 8889.JPG,Tomato___Late_blight,2,2,Late blight,True
+32482915-ead6-4e0e-8b3e-a14dd3546b0f___GHLB2 Leaf 8595.JPG,Tomato___Late_blight,2,2,Late blight,True
+33056b9e-f204-4e90-8525-2ebfad803b5c___RS_Late.B 5388.JPG,Tomato___Late_blight,2,2,Late blight,True
+335da0b8-a52f-4a2a-8bce-cf98b53b2596___RS_Late.B 6220.JPG,Tomato___Late_blight,2,1,Early blight,False
+34bd18fa-d898-40d4-83ed-665caabed7d0___RS_Late.B 5113.JPG,Tomato___Late_blight,2,2,Late blight,True
+34ce281a-ca92-4f89-a074-157fcedabf4c___RS_Late.B 5590.JPG,Tomato___Late_blight,2,2,Late blight,True
+35262a28-c600-4d1a-9179-f2e0d1638c08___GHLB_PS Leaf 42 Day 18.jpg,Tomato___Late_blight,2,2,Late blight,True
+359ad718-024d-4c9e-b871-4144ca25da76___GHLB_PS Leaf 23.1 Day 13.jpg,Tomato___Late_blight,2,2,Late blight,True
+35baedd2-975e-4a48-b468-5b7203bab631___GHLB2 Leaf 8936.JPG,Tomato___Late_blight,2,2,Late blight,True
+35bf2b79-f0c4-471c-95ee-2f32df6b8dc6___GHLB2 Leaf 8854.JPG,Tomato___Late_blight,2,2,Late blight,True
+35c64b94-b2f4-456d-b55f-a376827186c2___GHLB2 Leaf 129.JPG,Tomato___Late_blight,2,2,Late blight,True
+37dacc71-848d-43bd-8bb3-85ceafb11f91___GHLB2 Leaf 8605.JPG,Tomato___Late_blight,2,2,Late blight,True
+3943d2dd-ffb8-43db-a59d-db7af654aecf___GHLB_PS Leaf 51.1 Day 18.jpg,Tomato___Late_blight,2,2,Late blight,True
+3a051073-6326-43f1-bd93-a3c69661a87f___GHLB2 Leaf 8655.JPG,Tomato___Late_blight,2,2,Late blight,True
+3a1a6b9e-2a68-421f-adbe-229baf8a6093___GHLB Leaf 2 Day 13.JPG,Tomato___Late_blight,2,2,Late blight,True
+3ae2b5f3-a42f-49b1-8d27-dcfaaeda602f___GHLB2 Leaf 8840.JPG,Tomato___Late_blight,2,2,Late blight,True
+3db1dcda-3180-432a-9b8e-7ba8a0d6be55___GHLB_PS Leaf 28.3 Day 13.JPG,Tomato___Late_blight,2,2,Late blight,True
+40ad58d9-f6ab-4487-a150-e2da47f733f1___GHLB2 Leaf 8665.JPG,Tomato___Late_blight,2,2,Late blight,True
+41060f54-6ae7-4225-8c38-54490be4705d___RS_Late.B 7097.JPG,Tomato___Late_blight,2,2,Late blight,True
+4184f74c-6054-473f-babc-fa5cbca7f5b4___GHLB2ES Leaf 135.JPG,Tomato___Late_blight,2,2,Late blight,True
+43eb2436-bdba-4f67-8f51-d92c8f040690___GHLB2ES Leaf 141.1.JPG,Tomato___Late_blight,2,2,Late blight,True
+442f2aa6-9341-4f25-b789-edb5c9ac078b___GHLB2 Leaf 8846.JPG,Tomato___Late_blight,2,2,Late blight,True
+4431e0a9-f61b-4eff-a592-506a6c6606b2___RS_Late.B 7104.JPG,Tomato___Late_blight,2,2,Late blight,True
+4435bd64-52a2-46cf-a319-a13a28571b03___GHLB2 Leaf 157.2.JPG,Tomato___Late_blight,2,2,Late blight,True
+449c9233-a3bb-4743-874b-f5d092d652b9___GHLB2 Leaf 8975.JPG,Tomato___Late_blight,2,2,Late blight,True
+44c7f2c3-bec1-4f42-b9b6-946c2b92f50e___RS_Late.B 6261.JPG,Tomato___Late_blight,2,2,Late blight,True
+44e96c62-48e6-454c-bab5-c34569deb2a5___RS_Late.B 5162.JPG,Tomato___Late_blight,2,2,Late blight,True
+44f72a0c-3313-44bd-acdb-905ae5944a57___GHLB2 Leaf 8880.JPG,Tomato___Late_blight,2,2,Late blight,True
+491a9294-8f46-4563-9787-6b8b68a9c050___RS_Late.B 6591.JPG,Tomato___Late_blight,2,2,Late blight,True
+4aeaacd8-ff6e-4d01-86d1-0a51c626cc99___GHLB2 Leaf 8943.JPG,Tomato___Late_blight,2,2,Late blight,True
+4be05670-885c-4a87-a22a-dfb89f0b15d0___RS_Late.B 6588.JPG,Tomato___Late_blight,2,2,Late blight,True
+4cdd9b83-3ec9-40af-b402-a96827e69b84___GHLB2 Leaf 8554.JPG,Tomato___Late_blight,2,2,Late blight,True
+4de5d2c4-bed5-436a-95e2-bcf43a1723fd___GHLB2 Leaf 8727.JPG,Tomato___Late_blight,2,2,Late blight,True
+4e634785-ec5c-43b9-a352-9c9deb88b117___RS_Late.B 7095.JPG,Tomato___Late_blight,2,2,Late blight,True
+4ef693d7-c1e2-4dbc-896d-874b5eb15d13___GHLB2 Leaf 8877.JPG,Tomato___Late_blight,2,2,Late blight,True
+4f12205c-0035-48ed-b6b0-56f347fe2ab0___RS_Late.B 5085.JPG,Tomato___Late_blight,2,1,Early blight,False
+50dd04a3-18a8-4a34-bbba-5e6f851742f5___RS_Late.B 6141.JPG,Tomato___Late_blight,2,2,Late blight,True
+50ee2f48-e5f7-4eda-8bc9-9d501fedbe8f___RS_Late.B 4933.JPG,Tomato___Late_blight,2,2,Late blight,True
+523e5382-14a5-4849-bbec-1bfab9aeecfb___GHLB2 Leaf 8776.JPG,Tomato___Late_blight,2,2,Late blight,True
+52451f9c-825f-4907-8ee6-deeb5899d9b5___RS_Late.B 5449.JPG,Tomato___Late_blight,2,2,Late blight,True
+57c53f65-3137-41d3-9bf7-7ac867f3efe8___RS_Late.B 6255.JPG,Tomato___Late_blight,2,1,Early blight,False
+58c55232-ea2b-4ca9-9893-5f2f610969db___RS_Late.B 5448.JPG,Tomato___Late_blight,2,1,Early blight,False
+5a7059b0-82e8-441e-8d8a-02521d0fa602___GHLB2 Leaf 9058.JPG,Tomato___Late_blight,2,2,Late blight,True
+5b80231f-8012-42bb-97d0-12c48a4a2450___GHLB2 Leaf 8546.JPG,Tomato___Late_blight,2,2,Late blight,True
+5c33bdb3-8101-4b21-a9d1-8d490bb22e16___GHLB2 Leaf 8971.JPG,Tomato___Late_blight,2,2,Late blight,True
+5c5a2e9e-e460-403e-9d8a-f961b1f10935___RS_Late.B 5133.JPG,Tomato___Late_blight,2,2,Late blight,True
+5c6dfda8-1d4e-4ad0-92b1-5c6ffc790ea1___RS_Late.B 6223.JPG,Tomato___Late_blight,2,2,Late blight,True
+5e046b07-5da5-4cfd-a6f1-bb942eeef5f9___RS_Late.B 6216.JPG,Tomato___Late_blight,2,1,Early blight,False
+5e8c40ac-42c2-47da-87d4-c136216c6bea___GHLB_PS Leaf 49 Day 18.jpg,Tomato___Late_blight,2,2,Late blight,True
+60196a6c-a134-4107-8178-d1bb47450cee___GHLB Leaf 23.1 Day 9.jpg,Tomato___Late_blight,2,2,Late blight,True
+61237cd7-ac87-4720-90ed-299e39f520e1___RS_Late.B 5005.JPG,Tomato___Late_blight,2,1,Early blight,False
+61afbf50-6b68-4c7f-a068-d55f899e7775___RS_Late.B 7162.JPG,Tomato___Late_blight,2,2,Late blight,True
+623fd84d-2230-42fb-bb93-170cd516ffd2___RS_Late.B 4864.JPG,Tomato___Late_blight,2,2,Late blight,True
+688d69ca-59a6-4713-b18a-ce7c04ea001e___GHLB2 Leaf 8754.JPG,Tomato___Late_blight,2,2,Late blight,True
+6a8491a0-12a0-490e-9947-487a3c0b13fe___RS_Late.B 5349.JPG,Tomato___Late_blight,2,2,Late blight,True
+6bb72ae0-dc39-4098-bc4e-e09044990c5c___RS_Late.B 4868.JPG,Tomato___Late_blight,2,1,Early blight,False
+6cc5252d-0b5d-4f06-969d-8317150c355d___RS_Late.B 5012.JPG,Tomato___Late_blight,2,1,Early blight,False
+6dbfc1ca-37e7-4768-8009-4394e97c6c03___GHLB2 Leaf 8838.JPG,Tomato___Late_blight,2,2,Late blight,True
+6e45480a-127e-4173-9402-7b724728a139___RS_Late.B 4837.JPG,Tomato___Late_blight,2,1,Early blight,False
+6edd59f3-d87c-4583-a931-0f32a2748a79___RS_Late.B 4922.JPG,Tomato___Late_blight,2,2,Late blight,True
+6f78a5ad-d4cf-4289-8369-29a69aa493b0___RS_Late.B 6129.JPG,Tomato___Late_blight,2,2,Late blight,True
+700fdedf-00ca-4fbc-9871-ad67425777db___GHLB2 Leaf 8777.JPG,Tomato___Late_blight,2,2,Late blight,True
+703b175a-b3e2-4629-9569-9b4caf185589___RS_Late.B 5098.JPG,Tomato___Late_blight,2,2,Late blight,True
+712f0702-863c-487b-99b7-8e0c5284b91e___RS_Late.B 6363.JPG,Tomato___Late_blight,2,2,Late blight,True
+71dc2643-35ec-4660-99ba-e2dbb3b82229___GHLB2 Leaf 8983.JPG,Tomato___Late_blight,2,2,Late blight,True
+736c244e-cbeb-406a-bd0e-9a86675b99fc___RS_Late.B 4972.JPG,Tomato___Late_blight,2,2,Late blight,True
+736cd652-e63d-4b01-a3c6-6859bc095fb9___GHLB_PS Leaf 39 Day 16.jpg,Tomato___Late_blight,2,2,Late blight,True
+73901132-ade5-4705-9760-c2adcb396cda___RS_Late.B 7065.JPG,Tomato___Late_blight,2,2,Late blight,True
+73b30d1f-aa0b-47b0-8a4b-ee856be55431___GHLB2 Leaf 8672.JPG,Tomato___Late_blight,2,2,Late blight,True
+745086e9-2e07-48e3-809e-7448e14332ef___GHLB2 Leaf 134.2.JPG,Tomato___Late_blight,2,2,Late blight,True
+7538ba25-b6c3-4aca-a3d5-68ab173c93eb___RS_Late.B 5436.JPG,Tomato___Late_blight,2,2,Late blight,True
+760a8072-2979-49aa-a6bf-e075151758d8___RS_Late.B 5089.JPG,Tomato___Late_blight,2,1,Early blight,False
+76ca83b8-0695-470d-a715-2fcb9efb4fc4___RS_Late.B 5062.JPG,Tomato___Late_blight,2,2,Late blight,True
+76f42272-013f-4150-8c60-58a853336160___GHLB2 Leaf 82.JPG,Tomato___Late_blight,2,2,Late blight,True
+7733f764-a68f-4221-ae43-c096f03ce5d3___RS_Late.B 5985.JPG,Tomato___Late_blight,2,2,Late blight,True
+77793164-1671-42f7-83a2-f13074ec4892___GHLB Leaf 2 Day 6.JPG,Tomato___Late_blight,2,2,Late blight,True
+7aa199e5-4228-409c-84c2-8cd070af2b87___GHLB Leaf 2.1 Day 12.JPG,Tomato___Late_blight,2,2,Late blight,True
+7ae76b22-7563-4fd9-a859-50b7ad906f64___GHLB2 Leaf 86.1.JPG,Tomato___Late_blight,2,2,Late blight,True
+7b343a4c-5fbc-40f6-83da-ccae49ebd5fb___GHLB_PS Leaf 35 Day 13.jpg,Tomato___Late_blight,2,2,Late blight,True
+7d0d5e78-87b9-4d47-9291-4a1e75fe9d97___GHLB2 Leaf 8693.JPG,Tomato___Late_blight,2,2,Late blight,True
+7d2ecdff-4eca-4f8e-b550-166d668498ba___GHLB2 Leaf 8602.JPG,Tomato___Late_blight,2,2,Late blight,True
+7d4d00c0-1e72-427d-9f05-1f64f8051cb8___GHLB_PS Leaf 1 Day 7.jpg,Tomato___Late_blight,2,2,Late blight,True
+7d6954fd-a818-44e6-976e-8c817d729a86___RS_Late.B 4973.JPG,Tomato___Late_blight,2,1,Early blight,False
+7da8f393-2df9-42cc-a864-bc8d7ead2fe4___GHLB2 Leaf 8619.JPG,Tomato___Late_blight,2,2,Late blight,True
+7e10e4ed-19e9-4e89-a936-4b2bb30d4e90___GHLB_PS Leaf 1 Day 13.jpg,Tomato___Late_blight,2,2,Late blight,True
+7efeb8b7-9416-4b2b-bf24-acaf62918008___GHLB2 Leaf 124.1.JPG,Tomato___Late_blight,2,2,Late blight,True
+7f3884a8-82eb-4db8-b5c2-cc3f6dbe0cf9___RS_Late.B 6196.JPG,Tomato___Late_blight,2,2,Late blight,True
+7f533ee8-1d72-486e-b2a6-b5ef2ac7cc88___GHLB2 Leaf 8837.JPG,Tomato___Late_blight,2,2,Late blight,True
+7f790574-ac82-4a3e-9a4d-02cd7762dce2___GHLB2 Leaf 8948.JPG,Tomato___Late_blight,2,2,Late blight,True
+80380588-3ae5-43e3-8acf-541b53e5d44b___RS_Late.B 6542.JPG,Tomato___Late_blight,2,2,Late blight,True
+8047006e-1d4a-43cb-9637-037ca85855ba___RS_Late.B 7132.JPG,Tomato___Late_blight,2,2,Late blight,True
+8080a99f-e35d-4a1f-b26e-e2df8cf79408___RS_Late.B 6183.JPG,Tomato___Late_blight,2,0,Healthy,False
+8183f4e9-fa24-4e80-be93-42983b086b7d___GHLB2 Leaf 8782.JPG,Tomato___Late_blight,2,2,Late blight,True
+83abc50b-0705-4165-a9f3-e67b7ad93bf0___RS_Late.B 6170.JPG,Tomato___Late_blight,2,2,Late blight,True
+845735fd-cca2-4d7b-ace8-292ca8f5f940___GHLB2 Leaf 8771.JPG,Tomato___Late_blight,2,2,Late blight,True
+846005e7-d4ad-49e4-bfce-3aefe50b44e0___RS_Late.B 5158.JPG,Tomato___Late_blight,2,1,Early blight,False
+860b6c56-686a-4f21-8ae3-d7e45acd760b___GHLB_PS Leaf 25 Day 16.jpg,Tomato___Late_blight,2,2,Late blight,True
+8662590c-1a1e-450e-97fa-07fb26faf0c1___GHLB2 Leaf 8919.JPG,Tomato___Late_blight,2,2,Late blight,True
+88e11fb2-9752-4c08-97d6-7392fbcf8a95___RS_Late.B 6176.JPG,Tomato___Late_blight,2,2,Late blight,True
+89c134ee-41f7-46b7-b4dc-4229b3b3ca08___GHLB2 Leaf 8952.JPG,Tomato___Late_blight,2,2,Late blight,True
+8ad4d607-b0e5-4151-9455-66e8ece55ff7___GHLB2 Leaf 8774.JPG,Tomato___Late_blight,2,2,Late blight,True
+8afb4f4f-cc42-45fb-b3bb-6d6a4b358d8b___GHLB2 Leaf 8574.JPG,Tomato___Late_blight,2,2,Late blight,True
+8bae80d9-576c-4930-8c75-f6df2be339de___RS_Late.B 4912.JPG,Tomato___Late_blight,2,2,Late blight,True
+8c428644-bfe0-4f8c-944a-a8de1f318602___GHLB2 Leaf 8705.JPG,Tomato___Late_blight,2,2,Late blight,True
+8cf817c6-56f4-42b3-93b7-222d88b63b2d___RS_Late.B 4827.JPG,Tomato___Late_blight,2,1,Early blight,False
+8d025d16-0058-42b5-82b5-4cd88dd6f110___GHLB2 Leaf 8785.JPG,Tomato___Late_blight,2,2,Late blight,True
+8d786c11-5426-4af6-96a0-0c0d9ec804d7___RS_Late.B 5009.JPG,Tomato___Late_blight,2,2,Late blight,True
+909832a0-b9f8-4624-894f-16b200489acb___GHLB2 Leaf 161.JPG,Tomato___Late_blight,2,2,Late blight,True
+90e52dd6-f8ef-407f-a854-04200696dfe2___RS_Late.B 5375.JPG,Tomato___Late_blight,2,1,Early blight,False
+910c7947-dc38-4cb3-8df5-69bee6796afa___RS_Late.B 6968.JPG,Tomato___Late_blight,2,2,Late blight,True
+914e1c39-d7e1-4b6e-83be-254ab705746b___GHLB2 Leaf 101.3.JPG,Tomato___Late_blight,2,2,Late blight,True
+91b7a899-ee48-4bc2-98a9-f6a5fbf01a1d___RS_Late.B 5084.JPG,Tomato___Late_blight,2,2,Late blight,True
+91f4f56a-b0c8-469f-88a7-47908efa5842___RS_Late.B 5437.JPG,Tomato___Late_blight,2,2,Late blight,True
+92286a65-7836-4a51-9e6a-ada347bd2cbf___RS_Late.B 5398.JPG,Tomato___Late_blight,2,2,Late blight,True
+92abb825-be04-4ddd-a5d6-68b5c3900ba6___RS_Late.B 7128.JPG,Tomato___Late_blight,2,2,Late blight,True
+92abc2a8-b18b-45f9-bf9a-c774cc040ac7___GHLB2 Leaf 149.2.JPG,Tomato___Late_blight,2,2,Late blight,True
+938a5ed3-127f-4e05-8e96-9d2225d094c7___GHLB2 Leaf 8784.JPG,Tomato___Late_blight,2,2,Late blight,True
+953f355a-fd2c-433e-8292-a8c1908e000e___GHLB2 Leaf 8853.JPG,Tomato___Late_blight,2,2,Late blight,True
+975cefdc-29dc-4355-b9bb-5abd4a910654___GHLB2 Leaf 8657.JPG,Tomato___Late_blight,2,2,Late blight,True
+97f6b5cb-a2aa-4846-a306-decda7f1ad73___RS_Late.B 6127.JPG,Tomato___Late_blight,2,2,Late blight,True
+98191f19-1c33-45bd-bfe6-b768174460ef___GHLB2 Leaf 8794.JPG,Tomato___Late_blight,2,2,Late blight,True
+98e780fb-2eab-49ab-89c0-6e2b3516a461___GHLB2 Leaf 8610.JPG,Tomato___Late_blight,2,2,Late blight,True
+9afc2537-1b13-4c25-b5ed-5b8de511b0ab___GHLB2 Leaf 9033.JPG,Tomato___Late_blight,2,2,Late blight,True
+9ecb8001-2f48-4487-b287-535dbcfb5c2f___RS_Late.B 6206.JPG,Tomato___Late_blight,2,1,Early blight,False
+9f946f43-424a-41be-9f91-b14fa3f2b37a___GHLB2 Leaf 8892.JPG,Tomato___Late_blight,2,2,Late blight,True
+a06d18d4-0c8d-4ebc-ba9b-19f004a67eea___GHLB2ES Leaf 63.JPG,Tomato___Late_blight,2,2,Late blight,True
+a0fe466c-9953-4458-9621-65377e474227___RS_Late.B 6973.JPG,Tomato___Late_blight,2,2,Late blight,True
+a4547675-5ca9-48de-a334-deb20db0808c___GHLB_PS Leaf 34 Day 13.jpg,Tomato___Late_blight,2,1,Early blight,False
+a58b9916-46bd-49c2-b26e-de46080fdeee___GHLB2 Leaf 8879.JPG,Tomato___Late_blight,2,2,Late blight,True
+a5fbcb1e-c1f2-4cc9-b69b-24ce89f7ec7a___RS_Late.B 5585.JPG,Tomato___Late_blight,2,2,Late blight,True
+a5fe1111-38b0-4206-9ac7-3eec701beb79___GHLB2 Leaf 8868.JPG,Tomato___Late_blight,2,2,Late blight,True
+a78725bd-f2c9-405e-8591-c8b009f43ea7___RS_Late.B 4918.JPG,Tomato___Late_blight,2,2,Late blight,True
+a93e7941-b915-4e05-a3b8-7dd4176e6eaa___GHLB2 Leaf 85.JPG,Tomato___Late_blight,2,2,Late blight,True
+a9d3ba5a-2d13-4e86-9813-fc6f05f6c598___GHLB2 Leaf 8994.JPG,Tomato___Late_blight,2,2,Late blight,True
+aa5594a4-0679-4f85-bc2e-ff65342aaca1___GHLB2 Leaf 71.JPG,Tomato___Late_blight,2,2,Late blight,True
+ab503aa2-fb87-44a5-97f9-f2dd80c1697d___GHLB2 Leaf 8647.JPG,Tomato___Late_blight,2,2,Late blight,True
+ab542ed7-985c-4d7c-a2ad-a5ba19b9496e___RS_Late.B 6454.JPG,Tomato___Late_blight,2,2,Late blight,True
+ad3a71e8-63e0-4de4-ad26-6965c8a1d27e___RS_Late.B 6670.JPG,Tomato___Late_blight,2,1,Early blight,False
+ae811562-9670-4094-a791-41c848b909c4___GHLB2 Leaf 8982.JPG,Tomato___Late_blight,2,2,Late blight,True
+afaca2fc-774c-4401-9915-e7493f89a72a___GHLB2 Leaf 114.1.JPG,Tomato___Late_blight,2,2,Late blight,True
+afb65a40-7512-4d2c-884e-56e6c5010511___RS_Late.B 5380.JPG,Tomato___Late_blight,2,2,Late blight,True
+aff90d5c-a3f2-445a-b125-717a00b21fb8___RS_Late.B 6624.JPG,Tomato___Late_blight,2,2,Late blight,True
+b0a1ada0-f496-46a3-827e-2d721dabee59___GHLB2 Leaf 9086.JPG,Tomato___Late_blight,2,2,Late blight,True
+b2a9abfe-731d-4143-a534-158a4aea4dd1___GHLB_PS Leaf 1.5 Day 13.jpg,Tomato___Late_blight,2,2,Late blight,True
+b3971b7c-ae24-4f4f-b426-3368096afeab___RS_Late.B 7079.JPG,Tomato___Late_blight,2,2,Late blight,True
+b461fd42-7a0c-4b61-adb5-278f77dbc61a___RS_Late.B 5404.JPG,Tomato___Late_blight,2,2,Late blight,True
+b47f267d-7a17-4e4e-935e-4e6c0d7fd4f9___RS_Late.B 6146.JPG,Tomato___Late_blight,2,2,Late blight,True
+b4a271bd-619a-4735-8fd5-28124c4f4508___GHLB2 Leaf 8949.JPG,Tomato___Late_blight,2,2,Late blight,True
+b67ed405-b86b-4a5b-a403-d5fd87202e92___RS_Late.B 5006.JPG,Tomato___Late_blight,2,2,Late blight,True
+b96efa85-1d48-4a5e-9c80-4b1848182c93___RS_Late.B 6961.JPG,Tomato___Late_blight,2,2,Late blight,True
+ba09ee7e-4b6c-4f26-a626-7d8ee16e81e0___RS_Late.B 4859.JPG,Tomato___Late_blight,2,1,Early blight,False
+bb29cc81-e986-4946-8267-a12f0b1b15de___RS_Late.B 5000.JPG,Tomato___Late_blight,2,1,Early blight,False
+bc5fd090-21b4-42d8-82b7-354a7697dc22___RS_Late.B 5546.JPG,Tomato___Late_blight,2,1,Early blight,False
+bd38d701-9972-4472-852c-b4e27f6d72e2___RS_Late.B 6581.JPG,Tomato___Late_blight,2,2,Late blight,True
+beadaf43-1ab3-447b-b60a-d9c3cc8214ff___RS_Late.B 6293.JPG,Tomato___Late_blight,2,2,Late blight,True
+bf0b58c2-1d95-4f37-80ea-1bcd82e9c59b___GHLB2 Leaf 145.4.JPG,Tomato___Late_blight,2,2,Late blight,True
+bf1dbfe2-cbad-428f-9d91-4a63de9121bd___RS_Late.B 5036.JPG,Tomato___Late_blight,2,1,Early blight,False
+c0267369-b9ec-471e-b8a2-9aa3fc77b3c1___GHLB2 Leaf 9028.JPG,Tomato___Late_blight,2,2,Late blight,True
+c02d8671-0b42-4fb3-a7c7-5bbb002ca6d3___GHLB2 Leaf 8935.JPG,Tomato___Late_blight,2,2,Late blight,True
+c03b8994-6c6e-4997-83fd-803f3cc580ad___GHLB2 Leaf 8833.JPG,Tomato___Late_blight,2,2,Late blight,True
+c1114ce7-8c10-4854-8c07-66b3500ae853___GHLB_PS Leaf 8 Day 7.jpg,Tomato___Late_blight,2,2,Late blight,True
+c2327b45-3e5f-4f36-8f5b-2146c89d446d___RS_Late.B 6343.JPG,Tomato___Late_blight,2,2,Late blight,True
+c3a5ec63-9d0d-48a2-898a-9bc31b4443a9___GHLB_PS Leaf 1.2 Day 16.jpg,Tomato___Late_blight,2,1,Early blight,False
+c3adf8f1-bab4-4130-ba60-0fe65e08d5a5___RS_Late.B 5079.JPG,Tomato___Late_blight,2,2,Late blight,True
+c483c433-f51f-4e00-beb8-642a07628971___GHLB2 Leaf 8960.JPG,Tomato___Late_blight,2,2,Late blight,True
+c56dfea3-420f-46cf-b974-cec54b2c6992___GHLB_PS Leaf 2 Day 18.jpg,Tomato___Late_blight,2,2,Late blight,True
+c57464ef-c813-4ee5-90db-2b196b996d57___GHLB2 Leaf 154.3.JPG,Tomato___Late_blight,2,2,Late blight,True
+c6d3045a-d685-4e70-9e68-daaecabdddf4___GHLB2 Leaf 159.2.JPG,Tomato___Late_blight,2,2,Late blight,True
+c873c09b-f3b9-466c-bd1d-dc069eefde79___GHLB2 Leaf 9063.JPG,Tomato___Late_blight,2,2,Late blight,True
+c8fbd03f-4935-4199-8f8d-7bc1cc9e024d___GHLB2 Leaf 8941.JPG,Tomato___Late_blight,2,2,Late blight,True
+cb56bd8e-f217-4537-9d35-a62d6b82f48f___GHLB2 Leaf 8769.JPG,Tomato___Late_blight,2,2,Late blight,True
+cbf8d72d-f718-4b68-b609-42b790845c38___GHLB2 Leaf 8887.JPG,Tomato___Late_blight,2,2,Late blight,True
+cd71e099-6bee-45ab-8de3-08be107939af___RS_Late.B 5040.JPG,Tomato___Late_blight,2,2,Late blight,True
+cdcc1a8c-7b80-4d56-a5b6-942f03928ea0___RS_Late.B 5233.JPG,Tomato___Late_blight,2,2,Late blight,True
+ce02cb11-2c42-48ab-b20a-6412252b7cf1___RS_Late.B 6249.JPG,Tomato___Late_blight,2,2,Late blight,True
+ce70ced2-e8db-4eaf-9d4c-ae482126085f___RS_Late.B 6043.JPG,Tomato___Late_blight,2,0,Healthy,False
+cf21ccf7-0ad0-44cb-b541-a03d3921afcf___GHLB2 Leaf 8798.JPG,Tomato___Late_blight,2,2,Late blight,True
+cf2e943e-c8d7-43eb-a137-72f6b67b187a___RS_Late.B 7192.JPG,Tomato___Late_blight,2,2,Late blight,True
+cfa1ba1d-b853-441d-99b4-0d9d413c8eb0___RS_Late.B 5288.JPG,Tomato___Late_blight,2,2,Late blight,True
+d26fdac6-4355-4875-8c27-ebb1eaa50a8d___RS_Late.B 5119.JPG,Tomato___Late_blight,2,2,Late blight,True
+d346f7f2-7cc9-43ef-bfcf-fbfd9d9db724___GHLB_PS Leaf 18 Day 8.jpg,Tomato___Late_blight,2,2,Late blight,True
+d4af5357-afc6-4a81-8d7c-bf8f947c3c91___RS_Late.B 6908.JPG,Tomato___Late_blight,2,2,Late blight,True
+d55910c3-3530-4bde-94a7-6748f5fadfb4___RS_Late.B 7161.JPG,Tomato___Late_blight,2,2,Late blight,True
+d63c86b6-4cd6-4982-b12c-c770ce2a2ef3___RS_Late.B 6574.JPG,Tomato___Late_blight,2,2,Late blight,True
+d6e6897a-5083-4914-9903-804c5684a956___GHLB2 Leaf 102.JPG,Tomato___Late_blight,2,2,Late blight,True
+d70b86ba-e117-43d6-ad51-43c67d9a2483___RS_Late.B 6347.JPG,Tomato___Late_blight,2,2,Late blight,True
+d730e978-5e96-4a43-878b-33ffc5b635c4___GHLB2 Leaf 8972.JPG,Tomato___Late_blight,2,2,Late blight,True
+d84f5ea2-462a-40e2-8b01-916a65588aaf___GHLB_PS Leaf 22 Day 9.jpg,Tomato___Late_blight,2,2,Late blight,True
+d86aad3d-070a-4247-a3cb-a66e6b774fd3___RS_Late.B 7114.JPG,Tomato___Late_blight,2,0,Healthy,False
+d8eb0541-a9f1-423b-8e71-24a031f19530___GHLB2 Leaf 134.1.JPG,Tomato___Late_blight,2,2,Late blight,True
+d91538d7-1e25-442d-8963-86fec71a6545___RS_Late.B 6365.JPG,Tomato___Late_blight,2,2,Late blight,True
+dbb9fbf0-e196-4730-ac80-859b7dd74188___RS_Late.B 5498.JPG,Tomato___Late_blight,2,2,Late blight,True
+dd8c1f50-0407-4011-8dea-a8d0e6c7dbf1___RS_Late.B 6725.JPG,Tomato___Late_blight,2,2,Late blight,True
+de27bd5c-d08e-4815-8e31-3a2e497065d2___GHLB2 Leaf 8748.JPG,Tomato___Late_blight,2,2,Late blight,True
+de8d81c6-d032-4d55-92c3-690da726fa0c___GHLB2ES Leaf 119.1.JPG,Tomato___Late_blight,2,2,Late blight,True
+df7775b2-73f3-4708-86d5-a56e2bbb3337___RS_Late.B 5378.JPG,Tomato___Late_blight,2,1,Early blight,False
+dfc45d56-7ecb-46a5-b9da-9297df393f7b___RS_Late.B 6928.JPG,Tomato___Late_blight,2,2,Late blight,True
+dfed006d-7f5e-4a06-a73b-dc6cc837b59a___GHLB2 Leaf 8793.JPG,Tomato___Late_blight,2,2,Late blight,True
+e03114a0-8053-460a-b653-eef873b1c531___RS_Late.B 5532.JPG,Tomato___Late_blight,2,1,Early blight,False
+e10eb7f2-7449-4061-bb0a-49fa55abd423___RS_Late.B 6718.JPG,Tomato___Late_blight,2,2,Late blight,True
+e14dc5d0-5671-43e0-9d32-a8331c9455a4___RS_Late.B 6123.JPG,Tomato___Late_blight,2,2,Late blight,True
+e35dbe92-b70f-40ee-bd8a-a12ae07682a2___GHLB2 Leaf 9109.JPG,Tomato___Late_blight,2,2,Late blight,True
+e56aa8e4-cb6f-4333-816b-3494fc4fe25e___GHLB2 Leaf 8764.JPG,Tomato___Late_blight,2,2,Late blight,True
+e5d815b6-dd10-41a3-83e7-c25b6fd5d0c2___GHLB2 Leaf 9015.JPG,Tomato___Late_blight,2,2,Late blight,True
+e6644ce4-5856-4627-b08d-36ac786afaa5___RS_Late.B 6856.JPG,Tomato___Late_blight,2,1,Early blight,False
+e7ad9c9f-d300-4246-8e98-4e364eb4d7b6___GHLB Leaf 23.1 Day 18.JPG,Tomato___Late_blight,2,2,Late blight,True
+ea42a7f6-5683-41d6-b3fc-acf07d1865e4___GHLB_PS Leaf 8 Day 9.jpg,Tomato___Late_blight,2,2,Late blight,True
+ebbdadc5-972c-45fb-a6c2-99e8015cf4a9___RS_Late.B 5479.JPG,Tomato___Late_blight,2,1,Early blight,False
+ed6a8fb9-9fa8-4d3d-a727-676ec58d147a___RS_Late.B 7036.JPG,Tomato___Late_blight,2,2,Late blight,True
+eedd252b-1d20-4cc8-94ca-b8800334996c___GHLB2 Leaf 8667.JPG,Tomato___Late_blight,2,2,Late blight,True
+efe3a784-f4d6-4635-bef8-c81fffeee36b___GHLB2 Leaf 8651.JPG,Tomato___Late_blight,2,2,Late blight,True
+f08ebd91-a148-4494-a45c-55ebc1bf1f60___GHLB2 Leaf 8942.JPG,Tomato___Late_blight,2,2,Late blight,True
+f2dd9615-908e-4504-b38d-542765ae4f48___GHLB Leaf 8.3 Day 13.JPG,Tomato___Late_blight,2,2,Late blight,True
+f2f22a54-7995-4b43-83bf-5a0fba777466___RS_Late.B 5583.JPG,Tomato___Late_blight,2,2,Late blight,True
+f33028e4-68df-4312-ba25-94d65f03efcf___RS_Late.B 5530.JPG,Tomato___Late_blight,2,1,Early blight,False
+f4ab4184-4d1b-4b06-83bd-6324281c8588___GHLB2 Leaf 8751.JPG,Tomato___Late_blight,2,2,Late blight,True
+f4c2eabd-d29b-44ac-bda7-46d4b07fe799___RS_Late.B 4852.JPG,Tomato___Late_blight,2,2,Late blight,True
+f52d0ec5-4bc7-4a32-b9a1-6930b6c3477d___RS_Late.B 6501.JPG,Tomato___Late_blight,2,2,Late blight,True
+f582a1b2-636d-4a0e-a113-5dcfb5c2d7e8___GHLB2 Leaf 9098.JPG,Tomato___Late_blight,2,2,Late blight,True
+f7b65254-1bf9-4bf5-88fb-52c88373587c___RS_Late.B 5225.JPG,Tomato___Late_blight,2,2,Late blight,True
+f7be50b3-65ad-4d0d-9c7f-55ab2de07b1b___GHLB_PS Leaf 19 Day 8.jpg,Tomato___Late_blight,2,2,Late blight,True
+f96c2269-cf72-448e-a1b7-d74f2e46a675___RS_Late.B 6851.JPG,Tomato___Late_blight,2,2,Late blight,True
+f9bae5e8-64d9-4a34-9269-b4d97d095b47___RS_Late.B 4861.JPG,Tomato___Late_blight,2,1,Early blight,False
+f9f5cfa8-79df-4ed7-ba61-e7610509b3a5___RS_Late.B 6496.JPG,Tomato___Late_blight,2,2,Late blight,True
+fa4ec25a-250d-4eb3-ba0d-9d1c51eb3995___GHLB2 Leaf 8990.JPG,Tomato___Late_blight,2,2,Late blight,True
+fabba25a-e191-47c5-a468-6acf744312e1___GHLB2 Leaf 8835.JPG,Tomato___Late_blight,2,2,Late blight,True
+fc4eb42f-062f-4840-80f5-3244866a1e3a___GHLB2 Leaf 125.2.JPG,Tomato___Late_blight,2,2,Late blight,True
+fc77b008-6f35-40c7-96d4-64660bb624dc___GHLB2 Leaf 8812.JPG,Tomato___Late_blight,2,2,Late blight,True
+fce9cc3f-88ab-46d6-a26f-c6ff0e7c56e7___RS_Late.B 6372.JPG,Tomato___Late_blight,2,2,Late blight,True
+fddb6641-3785-4971-b44c-3cf0193112c2___GHLB_PS Leaf 43.2 Day 18.jpg,Tomato___Late_blight,2,2,Late blight,True
+fe20bf11-9be6-480c-8c99-b7b391ac9653___GHLB_PS Leaf 44.2 Day 18.jpg,Tomato___Late_blight,2,2,Late blight,True
