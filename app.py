@@ -3,6 +3,14 @@ import pandas as pd
 from pathlib import Path
 import streamlit as st
 
+# Page configuration
+st.set_page_config(
+    page_title="Leaf Descriptor Model",
+    page_icon="🌿",
+    layout="wide"
+)
+
+
 from src.image_processor import preprocess_image
 from src.segmentation import segment_leaf
 from src.feature_extractor import extract_features
@@ -99,12 +107,6 @@ def prepare_model_input(features):
 
     return pd.DataFrame([model_features])
 
-# Page configuration
-st.set_page_config(
-    page_title="Leaf Descriptor Model",
-    page_icon="🌿",
-    layout="wide"
-)
 
 
 # Application heading
